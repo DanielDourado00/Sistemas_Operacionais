@@ -1,0 +1,2896 @@
+Page Fault! Página 66 não encontrada na tabela.
+Alocando quadro livre 0 para a página 66.
+Endereço Virtual: 16916 Endereço Físico: 20 Conteúdo: 0
+Page Fault! Página 244 não encontrada na tabela.
+Alocando quadro livre 1 para a página 244.
+Endereço Virtual: 62493 Endereço Físico: 285 Conteúdo: 0
+Page Fault! Página 117 não encontrada na tabela.
+Alocando quadro livre 2 para a página 117.
+Endereço Virtual: 30198 Endereço Físico: 758 Conteúdo: 29
+Page Fault! Página 209 não encontrada na tabela.
+Alocando quadro livre 3 para a página 209.
+Endereço Virtual: 53683 Endereço Físico: 947 Conteúdo: 108
+Page Fault! Página 156 não encontrada na tabela.
+Alocando quadro livre 4 para a página 156.
+Endereço Virtual: 40185 Endereço Físico: 1273 Conteúdo: 0
+Page Fault! Página 112 não encontrada na tabela.
+Alocando quadro livre 5 para a página 112.
+Endereço Virtual: 28781 Endereço Físico: 1389 Conteúdo: 0
+Page Fault! Página 95 não encontrada na tabela.
+Alocando quadro livre 6 para a página 95.
+Endereço Virtual: 24462 Endereço Físico: 1678 Conteúdo: 23
+Page Fault! Página 189 não encontrada na tabela.
+Alocando quadro livre 7 para a página 189.
+Endereço Virtual: 48399 Endereço Físico: 1807 Conteúdo: 67
+Page Fault! Página 253 não encontrada na tabela.
+Alocando quadro livre 8 para a página 253.
+Endereço Virtual: 64815 Endereço Físico: 2095 Conteúdo: 75
+Page Fault! Página 71 não encontrada na tabela.
+Alocando quadro livre 9 para a página 71.
+Endereço Virtual: 18295 Endereço Físico: 2423 Conteúdo: 221
+Page Fault! Página 47 não encontrada na tabela.
+Alocando quadro livre 10 para a página 47.
+Endereço Virtual: 12218 Endereço Físico: 2746 Conteúdo: 11
+Page Fault! Página 88 não encontrada na tabela.
+Alocando quadro livre 11 para a página 88.
+Endereço Virtual: 22760 Endereço Físico: 3048 Conteúdo: 0
+Page Fault! Página 226 não encontrada na tabela.
+Alocando quadro livre 12 para a página 226.
+Endereço Virtual: 57982 Endereço Físico: 3198 Conteúdo: 56
+Page Fault! Página 109 não encontrada na tabela.
+Alocando quadro livre 13 para a página 109.
+Endereço Virtual: 27966 Endereço Físico: 3390 Conteúdo: 27
+Page Fault! Página 214 não encontrada na tabela.
+Alocando quadro livre 14 para a página 214.
+Endereço Virtual: 54894 Endereço Físico: 3694 Conteúdo: 53
+Page Fault! Página 152 não encontrada na tabela.
+Alocando quadro livre 15 para a página 152.
+Endereço Virtual: 38929 Endereço Físico: 3857 Conteúdo: 0
+Page Fault! Página 128 não encontrada na tabela.
+Alocando quadro livre 16 para a página 128.
+Endereço Virtual: 32865 Endereço Físico: 4193 Conteúdo: 0
+Page Fault! Página 250 não encontrada na tabela.
+Alocando quadro livre 17 para a página 250.
+Endereço Virtual: 64243 Endereço Físico: 4595 Conteúdo: 188
+Page Fault! Página 9 não encontrada na tabela.
+Alocando quadro livre 18 para a página 9.
+Endereço Virtual: 2315 Endereço Físico: 4619 Conteúdo: 66
+Page Fault! Página 251 não encontrada na tabela.
+Alocando quadro livre 19 para a página 251.
+Endereço Virtual: 64454 Endereço Físico: 5062 Conteúdo: 62
+Page Fault! Página 215 não encontrada na tabela.
+Alocando quadro livre 20 para a página 215.
+Endereço Virtual: 55041 Endereço Físico: 5121 Conteúdo: 0
+Page Fault! Página 72 não encontrada na tabela.
+Alocando quadro livre 21 para a página 72.
+Endereço Virtual: 18633 Endereço Físico: 5577 Conteúdo: 0
+Page Fault! Página 56 não encontrada na tabela.
+Alocando quadro livre 22 para a página 56.
+Endereço Virtual: 14557 Endereço Físico: 5853 Conteúdo: 0
+Page Fault! Página 238 não encontrada na tabela.
+Alocando quadro livre 23 para a página 238.
+Endereço Virtual: 61006 Endereço Físico: 5966 Conteúdo: 59
+Página 244 encontrada no quadro 1 (Tabela de Páginas).
+Endereço Virtual: 62615 Endereço Físico: 407 Conteúdo: 37
+Page Fault! Página 29 não encontrada na tabela.
+Alocando quadro livre 24 para a página 29.
+Endereço Virtual: 7591 Endereço Físico: 6311 Conteúdo: 105
+Page Fault! Página 252 não encontrada na tabela.
+Alocando quadro livre 25 para a página 252.
+Endereço Virtual: 64747 Endereço Físico: 6635 Conteúdo: 58
+Page Fault! Página 26 não encontrada na tabela.
+Alocando quadro livre 26 para a página 26.
+Endereço Virtual: 6727 Endereço Físico: 6727 Conteúdo: 145
+Page Fault! Página 126 não encontrada na tabela.
+Alocando quadro livre 27 para a página 126.
+Endereço Virtual: 32315 Endereço Físico: 6971 Conteúdo: 142
+Page Fault! Página 236 não encontrada na tabela.
+Alocando quadro livre 28 para a página 236.
+Endereço Virtual: 60645 Endereço Físico: 7397 Conteúdo: 0
+Page Fault! Página 24 não encontrada na tabela.
+Alocando quadro livre 29 para a página 24.
+Endereço Virtual: 6308 Endereço Físico: 7588 Conteúdo: 0
+Page Fault! Página 178 não encontrada na tabela.
+Alocando quadro livre 30 para a página 178.
+Endereço Virtual: 45688 Endereço Físico: 7800 Conteúdo: 0
+Page Fault! Página 3 não encontrada na tabela.
+Alocando quadro livre 31 para a página 3.
+Endereço Virtual: 969 Endereço Físico: 8137 Conteúdo: 0
+Page Fault! Página 159 não encontrada na tabela.
+Alocando quadro livre 32 para a página 159.
+Endereço Virtual: 40891 Endereço Físico: 8379 Conteúdo: 238
+Page Fault! Página 192 não encontrada na tabela.
+Alocando quadro livre 33 para a página 192.
+Endereço Virtual: 49294 Endereço Físico: 8590 Conteúdo: 48
+Page Fault! Página 160 não encontrada na tabela.
+Alocando quadro livre 34 para a página 160.
+Endereço Virtual: 41118 Endereço Físico: 8862 Conteúdo: 40
+Page Fault! Página 83 não encontrada na tabela.
+Alocando quadro livre 35 para a página 83.
+Endereço Virtual: 21395 Endereço Físico: 9107 Conteúdo: 228
+Page Fault! Página 23 não encontrada na tabela.
+Alocando quadro livre 36 para a página 23.
+Endereço Virtual: 6091 Endereço Físico: 9419 Conteúdo: 242
+Page Fault! Página 127 não encontrada na tabela.
+Alocando quadro livre 37 para a página 127.
+Endereço Virtual: 32541 Endereço Físico: 9501 Conteúdo: 0
+Page Fault! Página 69 não encontrada na tabela.
+Alocando quadro livre 38 para a página 69.
+Endereço Virtual: 17665 Endereço Físico: 9729 Conteúdo: 0
+Page Fault! Página 14 não encontrada na tabela.
+Alocando quadro livre 39 para a página 14.
+Endereço Virtual: 3784 Endereço Físico: 10184 Conteúdo: 0
+Página 112 encontrada no quadro 5 (Tabela de Páginas).
+Endereço Virtual: 28718 Endereço Físico: 1326 Conteúdo: 28
+Page Fault! Página 231 não encontrada na tabela.
+Alocando quadro livre 40 para a página 231.
+Endereço Virtual: 59240 Endereço Físico: 10344 Conteúdo: 0
+Página 156 encontrada no quadro 4 (Tabela de Páginas).
+Endereço Virtual: 40178 Endereço Físico: 1266 Conteúdo: 39
+Page Fault! Página 234 não encontrada na tabela.
+Alocando quadro livre 41 para a página 234.
+Endereço Virtual: 60086 Endereço Físico: 10678 Conteúdo: 58
+Page Fault! Página 165 não encontrada na tabela.
+Alocando quadro livre 42 para a página 165.
+Endereço Virtual: 42252 Endereço Físico: 10764 Conteúdo: 0
+Page Fault! Página 174 não encontrada na tabela.
+Alocando quadro livre 43 para a página 174.
+Endereço Virtual: 44770 Endereço Físico: 11234 Conteúdo: 43
+Page Fault! Página 87 não encontrada na tabela.
+Alocando quadro livre 44 para a página 87.
+Endereço Virtual: 22514 Endereço Físico: 11506 Conteúdo: 21
+Page Fault! Página 11 não encontrada na tabela.
+Alocando quadro livre 45 para a página 11.
+Endereço Virtual: 3067 Endereço Físico: 11771 Conteúdo: 254
+Page Fault! Página 61 não encontrada na tabela.
+Alocando quadro livre 46 para a página 61.
+Endereço Virtual: 15757 Endereço Físico: 11917 Conteúdo: 0
+Page Fault! Página 123 não encontrada na tabela.
+Alocando quadro livre 47 para a página 123.
+Endereço Virtual: 31649 Endereço Físico: 12193 Conteúdo: 0
+Page Fault! Página 42 não encontrada na tabela.
+Alocando quadro livre 48 para a página 42.
+Endereço Virtual: 10842 Endereço Físico: 12378 Conteúdo: 10
+Page Fault! Página 170 não encontrada na tabela.
+Alocando quadro livre 49 para a página 170.
+Endereço Virtual: 43765 Endereço Físico: 12789 Conteúdo: 0
+Page Fault! Página 130 não encontrada na tabela.
+Alocando quadro livre 50 para a página 130.
+Endereço Virtual: 33405 Endereço Físico: 12925 Conteúdo: 0
+Page Fault! Página 175 não encontrada na tabela.
+Alocando quadro livre 51 para a página 175.
+Endereço Virtual: 44954 Endereço Físico: 13210 Conteúdo: 43
+Page Fault! Página 221 não encontrada na tabela.
+Alocando quadro livre 52 para a página 221.
+Endereço Virtual: 56657 Endereço Físico: 13393 Conteúdo: 0
+Page Fault! Página 19 não encontrada na tabela.
+Alocando quadro livre 53 para a página 19.
+Endereço Virtual: 5003 Endereço Físico: 13707 Conteúdo: 226
+Page Fault! Página 196 não encontrada na tabela.
+Alocando quadro livre 54 para a página 196.
+Endereço Virtual: 50227 Endereço Físico: 13875 Conteúdo: 12
+Page Fault! Página 75 não encontrada na tabela.
+Alocando quadro livre 55 para a página 75.
+Endereço Virtual: 19358 Endereço Físico: 14238 Conteúdo: 18
+Page Fault! Página 142 não encontrada na tabela.
+Alocando quadro livre 56 para a página 142.
+Endereço Virtual: 36529 Endereço Físico: 14513 Conteúdo: 0
+Page Fault! Página 40 não encontrada na tabela.
+Alocando quadro livre 57 para a página 40.
+Endereço Virtual: 10392 Endereço Físico: 14744 Conteúdo: 0
+Page Fault! Página 230 não encontrada na tabela.
+Alocando quadro livre 58 para a página 230.
+Endereço Virtual: 58882 Endereço Físico: 14850 Conteúdo: 57
+Page Fault! Página 20 não encontrada na tabela.
+Alocando quadro livre 59 para a página 20.
+Endereço Virtual: 5129 Endereço Físico: 15113 Conteúdo: 0
+Page Fault! Página 228 não encontrada na tabela.
+Alocando quadro livre 60 para a página 228.
+Endereço Virtual: 58554 Endereço Físico: 15546 Conteúdo: 57
+Endereço Virtual: 58584 Endereço Físico: 15576 Conteúdo: 0
+Page Fault! Página 107 não encontrada na tabela.
+Alocando quadro livre 61 para a página 107.
+Endereço Virtual: 27444 Endereço Físico: 15668 Conteúdo: 0
+Endereço Virtual: 58982 Endereço Físico: 14950 Conteúdo: 57
+Page Fault! Página 201 não encontrada na tabela.
+Alocando quadro livre 62 para a página 201.
+Endereço Virtual: 51476 Endereço Físico: 15892 Conteúdo: 0
+Página 26 encontrada no quadro 26 (Tabela de Páginas).
+Endereço Virtual: 6796 Endereço Físico: 6796 Conteúdo: 0
+Página 83 encontrada no quadro 35 (Tabela de Páginas).
+Endereço Virtual: 21311 Endereço Físico: 9023 Conteúdo: 207
+Page Fault! Página 119 não encontrada na tabela.
+Alocando quadro livre 63 para a página 119.
+Endereço Virtual: 30705 Endereço Físico: 16369 Conteúdo: 0
+Page Fault! Página 113 não encontrada na tabela.
+Alocando quadro livre 64 para a página 113.
+Endereço Virtual: 28964 Endereço Físico: 16420 Conteúdo: 0
+Página 160 encontrada no quadro 34 (Tabela de Páginas).
+Endereço Virtual: 41003 Endereço Físico: 8747 Conteúdo: 10
+Page Fault! Página 79 não encontrada na tabela.
+Alocando quadro livre 65 para a página 79.
+Endereço Virtual: 20259 Endereço Físico: 16675 Conteúdo: 200
+Página 226 encontrada no quadro 12 (Tabela de Páginas).
+Endereço Virtual: 57857 Endereço Físico: 3073 Conteúdo: 0
+Page Fault! Página 247 não encontrada na tabela.
+Alocando quadro livre 66 para a página 247.
+Endereço Virtual: 63258 Endereço Físico: 16922 Conteúdo: 61
+Endereço Virtual: 36374 Endereço Físico: 14358 Conteúdo: 35
+Page Fault! Página 2 não encontrada na tabela.
+Alocando quadro livre 67 para a página 2.
+Endereço Virtual: 692 Endereço Físico: 17332 Conteúdo: 0
+Page Fault! Página 168 não encontrada na tabela.
+Alocando quadro livre 68 para a página 168.
+Endereço Virtual: 43121 Endereço Físico: 17521 Conteúdo: 0
+Page Fault! Página 188 não encontrada na tabela.
+Alocando quadro livre 69 para a página 188.
+Endereço Virtual: 48128 Endereço Físico: 17664 Conteúdo: 0
+Page Fault! Página 135 não encontrada na tabela.
+Alocando quadro livre 70 para a página 135.
+Endereço Virtual: 34561 Endereço Físico: 17921 Conteúdo: 0
+Página 192 encontrada no quadro 33 (Tabela de Páginas).
+Endereço Virtual: 49213 Endereço Físico: 8509 Conteúdo: 0
+Page Fault! Página 144 não encontrada na tabela.
+Alocando quadro livre 71 para a página 144.
+Endereço Virtual: 36922 Endereço Físico: 18234 Conteúdo: 36
+Página 231 encontrada no quadro 40 (Tabela de Páginas).
+Endereço Virtual: 59162 Endereço Físico: 10266 Conteúdo: 57
+Page Fault! Página 197 não encontrada na tabela.
+Alocando quadro livre 72 para a página 197.
+Endereço Virtual: 50552 Endereço Físico: 18552 Conteúdo: 0
+Página 69 encontrada no quadro 38 (Tabela de Páginas).
+Endereço Virtual: 17866 Endereço Físico: 9930 Conteúdo: 17
+Page Fault! Página 70 não encontrada na tabela.
+Alocando quadro livre 73 para a página 70.
+Endereço Virtual: 18145 Endereço Físico: 18913 Conteúdo: 0
+Page Fault! Página 15 não encontrada na tabela.
+Alocando quadro livre 74 para a página 15.
+Endereço Virtual: 3884 Endereço Físico: 18988 Conteúdo: 0
+Page Fault! Página 212 não encontrada na tabela.
+Alocando quadro livre 75 para a página 212.
+Endereço Virtual: 54388 Endereço Físico: 19316 Conteúdo: 0
+Page Fault! Página 167 não encontrada na tabela.
+Alocando quadro livre 76 para a página 167.
+Endereço Virtual: 42932 Endereço Físico: 19636 Conteúdo: 0
+Page Fault! Página 183 não encontrada na tabela.
+Alocando quadro livre 77 para a página 183.
+Endereço Virtual: 46919 Endereço Físico: 19783 Conteúdo: 209
+Página 230 encontrada no quadro 58 (Tabela de Páginas).
+Endereço Virtual: 58892 Endereço Físico: 14860 Conteúdo: 0
+Page Fault! Página 33 não encontrada na tabela.
+Alocando quadro livre 78 para a página 33.
+Endereço Virtual: 8620 Endereço Físico: 20140 Conteúdo: 0
+Page Fault! Página 149 não encontrada na tabela.
+Alocando quadro livre 79 para a página 149.
+Endereço Virtual: 38336 Endereço Físico: 20416 Conteúdo: 0
+Página 251 encontrada no quadro 19 (Tabela de Páginas).
+Endereço Virtual: 64357 Endereço Físico: 4965 Conteúdo: 0
+Page Fault! Página 91 não encontrada na tabela.
+Alocando quadro livre 80 para a página 91.
+Endereço Virtual: 23387 Endereço Físico: 20571 Conteúdo: 214
+Page Fault! Página 166 não encontrada na tabela.
+Alocando quadro livre 81 para a página 166.
+Endereço Virtual: 42632 Endereço Físico: 20872 Conteúdo: 0
+Page Fault! Página 62 não encontrada na tabela.
+Alocando quadro livre 82 para a página 62.
+Endereço Virtual: 15913 Endereço Físico: 21033 Conteúdo: 0
+Página 61 encontrada no quadro 46 (Tabela de Páginas).
+Endereço Virtual: 15679 Endereço Físico: 11839 Conteúdo: 79
+Página 87 encontrada no quadro 44 (Tabela de Páginas).
+Endereço Virtual: 22501 Endereço Físico: 11493 Conteúdo: 0
+Page Fault! Página 146 não encontrada na tabela.
+Alocando quadro livre 83 para a página 146.
+Endereço Virtual: 37540 Endereço Físico: 21412 Conteúdo: 0
+Page Fault! Página 21 não encontrada na tabela.
+Alocando quadro livre 84 para a página 21.
+Endereço Virtual: 5527 Endereço Físico: 21655 Conteúdo: 101
+Page Fault! Página 249 não encontrada na tabela.
+Alocando quadro livre 85 para a página 249.
+Endereço Virtual: 63921 Endereço Físico: 21937 Conteúdo: 0
+Página 244 encontrada no quadro 1 (Tabela de Páginas).
+Endereço Virtual: 62716 Endereço Físico: 508 Conteúdo: 0
+Página 128 encontrada no quadro 16 (Tabela de Páginas).
+Endereço Virtual: 32874 Endereço Físico: 4202 Conteúdo: 32
+Endereço Virtual: 64390 Endereço Físico: 4998 Conteúdo: 62
+Page Fault! Página 246 não encontrada na tabela.
+Alocando quadro livre 86 para a página 246.
+Endereço Virtual: 63101 Endereço Físico: 22141 Conteúdo: 0
+Page Fault! Página 241 não encontrada na tabela.
+Alocando quadro livre 87 para a página 241.
+Endereço Virtual: 61802 Endereço Físico: 22378 Conteúdo: 60
+Page Fault! Página 76 não encontrada na tabela.
+Alocando quadro livre 88 para a página 76.
+Endereço Virtual: 19648 Endereço Físico: 22720 Conteúdo: 0
+Página 113 encontrada no quadro 64 (Tabela de Páginas).
+Endereço Virtual: 29031 Endereço Físico: 16487 Conteúdo: 89
+Página 175 encontrada no quadro 51 (Tabela de Páginas).
+Endereço Virtual: 44981 Endereço Físico: 13237 Conteúdo: 0
+Página 109 encontrada no quadro 13 (Tabela de Páginas).
+Endereço Virtual: 28092 Endereço Físico: 3516 Conteúdo: 0
+Page Fault! Página 36 não encontrada na tabela.
+Alocando quadro livre 89 para a página 36.
+Endereço Virtual: 9448 Endereço Físico: 23016 Conteúdo: 0
+Página 174 encontrada no quadro 43 (Tabela de Páginas).
+Endereço Virtual: 44744 Endereço Físico: 11208 Conteúdo: 0
+Page Fault! Página 240 não encontrada na tabela.
+Alocando quadro livre 90 para a página 240.
+Endereço Virtual: 61496 Endereço Físico: 23096 Conteúdo: 0
+Page Fault! Página 122 não encontrada na tabela.
+Alocando quadro livre 91 para a página 122.
+Endereço Virtual: 31453 Endereço Físico: 23517 Conteúdo: 0
+Page Fault! Página 237 não encontrada na tabela.
+Alocando quadro livre 92 para a página 237.
+Endereço Virtual: 60746 Endereço Físico: 23626 Conteúdo: 59
+Página 47 encontrada no quadro 10 (Tabela de Páginas).
+Endereço Virtual: 12199 Endereço Físico: 2727 Conteúdo: 233
+Page Fault! Página 243 não encontrada na tabela.
+Alocando quadro livre 93 para a página 243.
+Endereço Virtual: 62255 Endereço Físico: 23855 Conteúdo: 203
+Page Fault! Página 85 não encontrada na tabela.
+Alocando quadro livre 94 para a página 85.
+Endereço Virtual: 21793 Endereço Físico: 24097 Conteúdo: 0
+Page Fault! Página 103 não encontrada na tabela.
+Alocando quadro livre 95 para a página 103.
+Endereço Virtual: 26544 Endereço Físico: 24496 Conteúdo: 0
+Page Fault! Página 58 não encontrada na tabela.
+Alocando quadro livre 96 para a página 58.
+Endereço Virtual: 14964 Endereço Físico: 24692 Conteúdo: 0
+Page Fault! Página 161 não encontrada na tabela.
+Alocando quadro livre 97 para a página 161.
+Endereço Virtual: 41462 Endereço Físico: 25078 Conteúdo: 40
+Page Fault! Página 219 não encontrada na tabela.
+Alocando quadro livre 98 para a página 219.
+Endereço Virtual: 56089 Endereço Físico: 25113 Conteúdo: 0
+Page Fault! Página 203 não encontrada na tabela.
+Alocando quadro livre 99 para a página 203.
+Endereço Virtual: 52038 Endereço Físico: 25414 Conteúdo: 50
+Page Fault! Página 187 não encontrada na tabela.
+Alocando quadro livre 100 para a página 187.
+Endereço Virtual: 47982 Endereço Físico: 25710 Conteúdo: 46
+Page Fault! Página 232 não encontrada na tabela.
+Alocando quadro livre 101 para a página 232.
+Endereço Virtual: 59484 Endereço Físico: 25948 Conteúdo: 0
+Page Fault! Página 198 não encontrada na tabela.
+Alocando quadro livre 102 para a página 198.
+Endereço Virtual: 50924 Endereço Físico: 26348 Conteúdo: 0
+Page Fault! Página 27 não encontrada na tabela.
+Alocando quadro livre 103 para a página 27.
+Endereço Virtual: 6942 Endereço Físico: 26398 Conteúdo: 6
+Page Fault! Página 136 não encontrada na tabela.
+Alocando quadro livre 104 para a página 136.
+Endereço Virtual: 34998 Endereço Físico: 26806 Conteúdo: 34
+Page Fault! Página 105 não encontrada na tabela.
+Alocando quadro livre 105 para a página 105.
+Endereço Virtual: 27069 Endereço Físico: 27069 Conteúdo: 0
+Page Fault! Página 202 não encontrada na tabela.
+Alocando quadro livre 106 para a página 202.
+Endereço Virtual: 51926 Endereço Físico: 27350 Conteúdo: 50
+Página 236 encontrada no quadro 28 (Tabela de Páginas).
+Endereço Virtual: 60645 Endereço Físico: 7397 Conteúdo: 0
+Página 168 encontrada no quadro 68 (Tabela de Páginas).
+Endereço Virtual: 43181 Endereço Físico: 17581 Conteúdo: 0
+Page Fault! Página 41 não encontrada na tabela.
+Alocando quadro livre 107 para a página 41.
+Endereço Virtual: 10559 Endereço Físico: 27455 Conteúdo: 79
+Page Fault! Página 18 não encontrada na tabela.
+Alocando quadro livre 108 para a página 18.
+Endereço Virtual: 4664 Endereço Físico: 27704 Conteúdo: 0
+Page Fault! Página 111 não encontrada na tabela.
+Alocando quadro livre 109 para a página 111.
+Endereço Virtual: 28578 Endereço Físico: 28066 Conteúdo: 27
+Endereço Virtual: 59516 Endereço Físico: 25980 Conteúdo: 0
+Página 152 encontrada no quadro 15 (Tabela de Páginas).
+Endereço Virtual: 38912 Endereço Físico: 3840 Conteúdo: 0
+Page Fault! Página 248 não encontrada na tabela.
+Alocando quadro livre 110 para a página 248.
+Endereço Virtual: 63562 Endereço Físico: 28234 Conteúdo: 62
+Página 253 encontrada no quadro 8 (Tabela de Páginas).
+Endereço Virtual: 64846 Endereço Físico: 2126 Conteúdo: 63
+Page Fault! Página 245 não encontrada na tabela.
+Alocando quadro livre 111 para a página 245.
+Endereço Virtual: 62938 Endereço Físico: 28634 Conteúdo: 61
+Page Fault! Página 106 não encontrada na tabela.
+Alocando quadro livre 112 para a página 106.
+Endereço Virtual: 27194 Endereço Físico: 28730 Conteúdo: 26
+Página 112 encontrada no quadro 5 (Tabela de Páginas).
+Endereço Virtual: 28804 Endereço Físico: 1412 Conteúdo: 0
+Página 241 encontrada no quadro 87 (Tabela de Páginas).
+Endereço Virtual: 61703 Endereço Físico: 22279 Conteúdo: 65
+Página 42 encontrada no quadro 48 (Tabela de Páginas).
+Endereço Virtual: 10998 Endereço Físico: 12534 Conteúdo: 10
+Page Fault! Página 25 não encontrada na tabela.
+Alocando quadro livre 113 para a página 25.
+Endereço Virtual: 6596 Endereço Físico: 29124 Conteúdo: 0
+Page Fault! Página 147 não encontrada na tabela.
+Alocando quadro livre 114 para a página 147.
+Endereço Virtual: 37721 Endereço Físico: 29273 Conteúdo: 0
+Page Fault! Página 169 não encontrada na tabela.
+Alocando quadro livre 115 para a página 169.
+Endereço Virtual: 43430 Endereço Físico: 29606 Conteúdo: 42
+Página 88 encontrada no quadro 11 (Tabela de Páginas).
+Endereço Virtual: 22692 Endereço Físico: 2980 Conteúdo: 0
+Endereço Virtual: 62971 Endereço Físico: 28667 Conteúdo: 126
+Page Fault! Página 184 não encontrada na tabela.
+Alocando quadro livre 116 para a página 184.
+Endereço Virtual: 47125 Endereço Físico: 29717 Conteúdo: 0
+Page Fault! Página 205 não encontrada na tabela.
+Alocando quadro livre 117 para a página 205.
+Endereço Virtual: 52521 Endereço Físico: 29993 Conteúdo: 0
+Página 135 encontrada no quadro 70 (Tabela de Páginas).
+Endereço Virtual: 34646 Endereço Físico: 18006 Conteúdo: 33
+Página 128 encontrada no quadro 16 (Tabela de Páginas).
+Endereço Virtual: 32889 Endereço Físico: 4217 Conteúdo: 0
+Page Fault! Página 50 não encontrada na tabela.
+Alocando quadro livre 118 para a página 50.
+Endereço Virtual: 13055 Endereço Físico: 30463 Conteúdo: 191
+Page Fault! Página 255 não encontrada na tabela.
+Alocando quadro livre 119 para a página 255.
+Endereço Virtual: 65416 Endereço Físico: 30600 Conteúdo: 0
+Endereço Virtual: 62869 Endereço Físico: 28565 Conteúdo: 0
+Page Fault! Página 223 não encontrada na tabela.
+Alocando quadro livre 120 para a página 223.
+Endereço Virtual: 57314 Endereço Físico: 30946 Conteúdo: 55
+Page Fault! Página 49 não encontrada na tabela.
+Alocando quadro livre 121 para a página 49.
+Endereço Virtual: 12659 Endereço Físico: 31091 Conteúdo: 92
+Page Fault! Página 54 não encontrada na tabela.
+Alocando quadro livre 122 para a página 54.
+Endereço Virtual: 14052 Endereço Físico: 31460 Conteúdo: 0
+Endereço Virtual: 32956 Endereço Físico: 4284 Conteúdo: 0
+Página 192 encontrada no quadro 33 (Tabela de Páginas).
+Endereço Virtual: 49273 Endereço Físico: 8569 Conteúdo: 0
+Página 196 encontrada no quadro 54 (Tabela de Páginas).
+Endereço Virtual: 50352 Endereço Físico: 14000 Conteúdo: 0
+Page Fault! Página 194 não encontrada na tabela.
+Alocando quadro livre 123 para a página 194.
+Endereço Virtual: 49737 Endereço Físico: 31561 Conteúdo: 0
+Page Fault! Página 60 não encontrada na tabela.
+Alocando quadro livre 124 para a página 60.
+Endereço Virtual: 15555 Endereço Físico: 31939 Conteúdo: 48
+Page Fault! Página 185 não encontrada na tabela.
+Alocando quadro livre 125 para a página 185.
+Endereço Virtual: 47475 Endereço Físico: 32115 Conteúdo: 92
+Page Fault! Página 59 não encontrada na tabela.
+Alocando quadro livre 126 para a página 59.
+Endereço Virtual: 15328 Endereço Físico: 32480 Conteúdo: 0
+Endereço Virtual: 34621 Endereço Físico: 17981 Conteúdo: 0
+Page Fault! Página 200 não encontrada na tabela.
+Alocando quadro livre 127 para a página 200.
+Endereço Virtual: 51365 Endereço Físico: 32677 Conteúdo: 0
+Endereço Virtual: 32820 Endereço Físico: 4148 Conteúdo: 0
+Page Fault! Página 190 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 66 no quadro 0.
+Endereço Virtual: 48855 Endereço Físico: 215 Conteúdo: 181
+Página 47 encontrada no quadro 10 (Tabela de Páginas).
+Endereço Virtual: 12224 Endereço Físico: 2752 Conteúdo: 0
+Page Fault! Página 7 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 244 no quadro 1.
+Endereço Virtual: 2035 Endereço Físico: 499 Conteúdo: 252
+Página 236 encontrada no quadro 28 (Tabela de Páginas).
+Endereço Virtual: 60539 Endereço Físico: 7291 Conteúdo: 30
+Page Fault! Página 57 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 117 no quadro 2.
+Endereço Virtual: 14595 Endereço Físico: 515 Conteúdo: 64
+Endereço Virtual: 13853 Endereço Físico: 31261 Conteúdo: 0
+Page Fault! Página 94 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 209 no quadro 3.
+Endereço Virtual: 24143 Endereço Físico: 847 Conteúdo: 147
+Endereço Virtual: 15216 Endereço Físico: 32368 Conteúdo: 0
+Page Fault! Página 31 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 156 no quadro 4.
+Endereço Virtual: 8113 Endereço Físico: 1201 Conteúdo: 0
+Página 88 encontrada no quadro 11 (Tabela de Páginas).
+Endereço Virtual: 22640 Endereço Físico: 2928 Conteúdo: 0
+Página 128 encontrada no quadro 16 (Tabela de Páginas).
+Endereço Virtual: 32978 Endereço Físico: 4306 Conteúdo: 32
+Página 152 encontrada no quadro 15 (Tabela de Páginas).
+Endereço Virtual: 39151 Endereço Físico: 4079 Conteúdo: 59
+Página 76 encontrada no quadro 88 (Tabela de Páginas).
+Endereço Virtual: 19520 Endereço Físico: 22592 Conteúdo: 0
+Page Fault! Página 227 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 112 no quadro 5.
+Endereço Virtual: 58141 Endereço Físico: 1309 Conteúdo: 0
+Página 249 encontrada no quadro 85 (Tabela de Páginas).
+Endereço Virtual: 63959 Endereço Físico: 21975 Conteúdo: 117
+Page Fault! Página 207 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 95 no quadro 6.
+Endereço Virtual: 53040 Endereço Físico: 1584 Conteúdo: 0
+Page Fault! Página 218 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 189 no quadro 7.
+Endereço Virtual: 55842 Endereço Físico: 1826 Conteúdo: 54
+Página 2 encontrada no quadro 67 (Tabela de Páginas).
+Endereço Virtual: 585 Endereço Físico: 17225 Conteúdo: 0
+Página 200 encontrada no quadro 127 (Tabela de Páginas).
+Endereço Virtual: 51229 Endereço Físico: 32541 Conteúdo: 0
+Página 250 encontrada no quadro 17 (Tabela de Páginas).
+Endereço Virtual: 64181 Endereço Físico: 4533 Conteúdo: 0
+Página 214 encontrada no quadro 14 (Tabela de Páginas).
+Endereço Virtual: 54879 Endereço Físico: 3679 Conteúdo: 151
+Page Fault! Página 110 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 253 no quadro 8.
+Endereço Virtual: 28210 Endereço Físico: 2098 Conteúdo: 27
+Página 40 encontrada no quadro 57 (Tabela de Páginas).
+Endereço Virtual: 10268 Endereço Físico: 14620 Conteúdo: 0
+Página 60 encontrada no quadro 124 (Tabela de Páginas).
+Endereço Virtual: 15395 Endereço Físico: 31779 Conteúdo: 8
+Página 50 encontrada no quadro 118 (Tabela de Páginas).
+Endereço Virtual: 12884 Endereço Físico: 30292 Conteúdo: 0
+Page Fault! Página 8 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 71 no quadro 9.
+Endereço Virtual: 2149 Endereço Físico: 2405 Conteúdo: 0
+Page Fault! Página 208 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 47 no quadro 10.
+Endereço Virtual: 53483 Endereço Físico: 2795 Conteúdo: 58
+Página 232 encontrada no quadro 101 (Tabela de Páginas).
+Endereço Virtual: 59606 Endereço Físico: 26070 Conteúdo: 58
+Página 58 encontrada no quadro 96 (Tabela de Páginas).
+Endereço Virtual: 14981 Endereço Físico: 24709 Conteúdo: 0
+Page Fault! Página 143 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 88 no quadro 11.
+Endereço Virtual: 36672 Endereço Físico: 2880 Conteúdo: 0
+Page Fault! Página 90 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 226 no quadro 12.
+Endereço Virtual: 23197 Endereço Físico: 3229 Conteúdo: 0
+Página 142 encontrada no quadro 56 (Tabela de Páginas).
+Endereço Virtual: 36518 Endereço Físico: 14502 Conteúdo: 35
+Page Fault! Página 52 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 109 no quadro 13.
+Endereço Virtual: 13361 Endereço Físico: 3377 Conteúdo: 0
+Page Fault! Página 77 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 214 no quadro 14.
+Endereço Virtual: 19810 Endereço Físico: 3682 Conteúdo: 19
+Page Fault! Página 101 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 152 no quadro 15.
+Endereço Virtual: 25955 Endereço Físico: 3939 Conteúdo: 88
+Page Fault! Página 244 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 128 no quadro 16.
+Endereço Virtual: 62678 Endereço Físico: 4310 Conteúdo: 61
+Endereço Virtual: 26021 Endereço Físico: 4005 Conteúdo: 0
+Page Fault! Página 114 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 250 no quadro 17.
+Endereço Virtual: 29409 Endereço Físico: 4577 Conteúdo: 0
+Page Fault! Página 148 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 9 no quadro 18.
+Endereço Virtual: 38111 Endereço Físico: 4831 Conteúdo: 55
+Página 228 encontrada no quadro 60 (Tabela de Páginas).
+Endereço Virtual: 58573 Endereço Físico: 15565 Conteúdo: 0
+Page Fault! Página 222 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 251 no quadro 19.
+Endereço Virtual: 56840 Endereço Físico: 4872 Conteúdo: 0
+Página 161 encontrada no quadro 97 (Tabela de Páginas).
+Endereço Virtual: 41306 Endereço Físico: 24922 Conteúdo: 40
+Página 212 encontrada no quadro 75 (Tabela de Páginas).
+Endereço Virtual: 54426 Endereço Físico: 19354 Conteúdo: 53
+Página 14 encontrada no quadro 39 (Tabela de Páginas).
+Endereço Virtual: 3617 Endereço Físico: 10017 Conteúdo: 0
+Página 197 encontrada no quadro 72 (Tabela de Páginas).
+Endereço Virtual: 50652 Endereço Físico: 18652 Conteúdo: 0
+Endereço Virtual: 41452 Endereço Físico: 25068 Conteúdo: 0
+Página 79 encontrada no quadro 65 (Tabela de Páginas).
+Endereço Virtual: 20241 Endereço Físico: 16657 Conteúdo: 0
+Página 123 encontrada no quadro 47 (Tabela de Páginas).
+Endereço Virtual: 31723 Endereço Físico: 12267 Conteúdo: 250
+Page Fault! Página 209 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 215 no quadro 20.
+Endereço Virtual: 53747 Endereço Físico: 5363 Conteúdo: 124
+Página 111 encontrada no quadro 109 (Tabela de Páginas).
+Endereço Virtual: 28550 Endereço Físico: 28038 Conteúdo: 27
+Página 91 encontrada no quadro 80 (Tabela de Páginas).
+Endereço Virtual: 23402 Endereço Físico: 20586 Conteúdo: 22
+Page Fault! Página 82 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 72 no quadro 21.
+Endereço Virtual: 21205 Endereço Físico: 5589 Conteúdo: 0
+Página 219 encontrada no quadro 98 (Tabela de Páginas).
+Endereço Virtual: 56181 Endereço Físico: 25205 Conteúdo: 0
+Page Fault! Página 224 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 56 no quadro 22.
+Endereço Virtual: 57470 Endereço Físico: 5758 Conteúdo: 56
+Page Fault! Página 155 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 238 no quadro 23.
+Endereço Virtual: 39933 Endereço Físico: 6141 Conteúdo: 0
+Página 136 encontrada no quadro 104 (Tabela de Páginas).
+Endereço Virtual: 34964 Endereço Físico: 26772 Conteúdo: 0
+Page Fault! Página 96 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 29 no quadro 24.
+Endereço Virtual: 24781 Endereço Físico: 6349 Conteúdo: 0
+Page Fault! Página 163 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 252 no quadro 25.
+Endereço Virtual: 41747 Endereço Físico: 6419 Conteúdo: 196
+Página 244 encontrada no quadro 16 (Tabela de Páginas).
+Endereço Virtual: 62564 Endereço Físico: 4196 Conteúdo: 0
+Página 228 encontrada no quadro 60 (Tabela de Páginas).
+Endereço Virtual: 58461 Endereço Físico: 15453 Conteúdo: 0
+Page Fault! Página 81 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 26 no quadro 26.
+Endereço Virtual: 20858 Endereço Físico: 6778 Conteúdo: 20
+Página 192 encontrada no quadro 33 (Tabela de Páginas).
+Endereço Virtual: 49301 Endereço Físico: 8597 Conteúdo: 0
+Page Fault! Página 158 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 126 no quadro 27.
+Endereço Virtual: 40572 Endereço Físico: 7036 Conteúdo: 0
+Page Fault! Página 93 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 236 no quadro 28.
+Endereço Virtual: 23840 Endereço Físico: 7200 Conteúdo: 0
+Page Fault! Página 137 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 24 no quadro 29.
+Endereço Virtual: 35278 Endereço Físico: 7630 Conteúdo: 34
+Página 245 encontrada no quadro 111 (Tabela de Páginas).
+Endereço Virtual: 62905 Endereço Físico: 28601 Conteúdo: 0
+Página 221 encontrada no quadro 52 (Tabela de Páginas).
+Endereço Virtual: 56650 Endereço Físico: 13386 Conteúdo: 55
+Page Fault! Página 43 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 178 no quadro 30.
+Endereço Virtual: 11149 Endereço Físico: 7821 Conteúdo: 0
+Page Fault! Página 152 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 3 no quadro 31.
+Endereço Virtual: 38920 Endereço Físico: 7944 Conteúdo: 0
+Página 91 encontrada no quadro 80 (Tabela de Páginas).
+Endereço Virtual: 23430 Endereço Físico: 20614 Conteúdo: 22
+Página 224 encontrada no quadro 22 (Tabela de Páginas).
+Endereço Virtual: 57592 Endereço Físico: 5880 Conteúdo: 0
+Page Fault! Página 12 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 159 no quadro 32.
+Endereço Virtual: 3080 Endereço Físico: 8200 Conteúdo: 0
+Page Fault! Página 26 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 192 no quadro 33.
+Endereço Virtual: 6677 Endereço Físico: 8469 Conteúdo: 0
+Página 198 encontrada no quadro 102 (Tabela de Páginas).
+Endereço Virtual: 50704 Endereço Físico: 26128 Conteúdo: 0
+Página 202 encontrada no quadro 106 (Tabela de Páginas).
+Endereço Virtual: 51883 Endereço Físico: 27307 Conteúdo: 170
+Endereço Virtual: 62799 Endereço Físico: 28495 Conteúdo: 83
+Page Fault! Página 78 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 160 no quadro 34.
+Endereço Virtual: 20188 Endereço Físico: 8924 Conteúdo: 0
+Page Fault! Página 4 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 83 no quadro 35.
+Endereço Virtual: 1245 Endereço Físico: 9181 Conteúdo: 0
+Page Fault! Página 47 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 23 no quadro 36.
+Endereço Virtual: 12220 Endereço Físico: 9404 Conteúdo: 0
+Page Fault! Página 68 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 127 no quadro 37.
+Endereço Virtual: 17602 Endereço Físico: 9666 Conteúdo: 17
+Página 111 encontrada no quadro 109 (Tabela de Páginas).
+Endereço Virtual: 28609 Endereço Físico: 28097 Conteúdo: 0
+Página 166 encontrada no quadro 81 (Tabela de Páginas).
+Endereço Virtual: 42694 Endereço Físico: 20934 Conteúdo: 41
+Page Fault! Página 116 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 69 no quadro 38.
+Endereço Virtual: 29826 Endereço Físico: 9858 Conteúdo: 29
+Página 54 encontrada no quadro 122 (Tabela de Páginas).
+Endereço Virtual: 13827 Endereço Físico: 31235 Conteúdo: 128
+Página 106 encontrada no quadro 112 (Tabela de Páginas).
+Endereço Virtual: 27336 Endereço Físico: 28872 Conteúdo: 0
+Página 208 encontrada no quadro 10 (Tabela de Páginas).
+Endereço Virtual: 53343 Endereço Físico: 2655 Conteúdo: 23
+Page Fault! Página 45 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 14 no quadro 39.
+Endereço Virtual: 11533 Endereço Físico: 9997 Conteúdo: 0
+Page Fault! Página 162 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 231 no quadro 40.
+Endereço Virtual: 41713 Endereço Físico: 10481 Conteúdo: 0
+Page Fault! Página 132 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 234 no quadro 41.
+Endereço Virtual: 33890 Endereço Físico: 10594 Conteúdo: 33
+Página 19 encontrada no quadro 53 (Tabela de Páginas).
+Endereço Virtual: 4894 Endereço Físico: 13598 Conteúdo: 4
+Página 224 encontrada no quadro 22 (Tabela de Páginas).
+Endereço Virtual: 57599 Endereço Físico: 5887 Conteúdo: 63
+Página 15 encontrada no quadro 74 (Tabela de Páginas).
+Endereço Virtual: 3870 Endereço Físico: 18974 Conteúdo: 3
+Página 228 encontrada no quadro 60 (Tabela de Páginas).
+Endereço Virtual: 58622 Endereço Físico: 15614 Conteúdo: 57
+Endereço Virtual: 29780 Endereço Físico: 9812 Conteúdo: 0
+Página 244 encontrada no quadro 16 (Tabela de Páginas).
+Endereço Virtual: 62553 Endereço Físico: 4185 Conteúdo: 0
+Página 8 encontrada no quadro 9 (Tabela de Páginas).
+Endereço Virtual: 2303 Endereço Físico: 2559 Conteúdo: 63
+Página 202 encontrada no quadro 106 (Tabela de Páginas).
+Endereço Virtual: 51915 Endereço Físico: 27339 Conteúdo: 178
+Page Fault! Página 24 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 165 no quadro 42.
+Endereço Virtual: 6251 Endereço Físico: 10859 Conteúdo: 26
+Página 148 encontrada no quadro 18 (Tabela de Páginas).
+Endereço Virtual: 38107 Endereço Físico: 4827 Conteúdo: 54
+Page Fault! Página 231 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 174 no quadro 43.
+Endereço Virtual: 59325 Endereço Físico: 11197 Conteúdo: 0
+Page Fault! Página 239 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 87 no quadro 44.
+Endereço Virtual: 61295 Endereço Físico: 11375 Conteúdo: 219
+Page Fault! Página 104 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 11 no quadro 45.
+Endereço Virtual: 26699 Endereço Físico: 11595 Conteúdo: 18
+Page Fault! Página 199 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 61 no quadro 46.
+Endereço Virtual: 51188 Endereço Físico: 12020 Conteúdo: 0
+Página 232 encontrada no quadro 101 (Tabela de Páginas).
+Endereço Virtual: 59519 Endereço Físico: 25983 Conteúdo: 31
+Page Fault! Página 28 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 123 no quadro 47.
+Endereço Virtual: 7345 Endereço Físico: 12209 Conteúdo: 0
+Página 79 encontrada no quadro 65 (Tabela de Páginas).
+Endereço Virtual: 20325 Endereço Físico: 16741 Conteúdo: 0
+Page Fault! Página 154 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 42 no quadro 48.
+Endereço Virtual: 39633 Endereço Físico: 12497 Conteúdo: 0
+Page Fault! Página 6 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 170 no quadro 49.
+Endereço Virtual: 1562 Endereço Físico: 12570 Conteúdo: 1
+Page Fault! Página 29 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 130 no quadro 50.
+Endereço Virtual: 7580 Endereço Físico: 12956 Conteúdo: 0
+Página 31 encontrada no quadro 4 (Tabela de Páginas).
+Endereço Virtual: 8170 Endereço Físico: 1258 Conteúdo: 7
+Página 243 encontrada no quadro 93 (Tabela de Páginas).
+Endereço Virtual: 62256 Endereço Físico: 23856 Conteúdo: 0
+Page Fault! Página 139 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 175 no quadro 51.
+Endereço Virtual: 35823 Endereço Físico: 13295 Conteúdo: 251
+Page Fault! Página 108 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 221 no quadro 52.
+Endereço Virtual: 27790 Endereço Físico: 13454 Conteúdo: 27
+Page Fault! Página 51 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 19 no quadro 53.
+Endereço Virtual: 13191 Endereço Físico: 13703 Conteúdo: 225
+Page Fault! Página 38 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 196 no quadro 54.
+Endereço Virtual: 9772 Endereço Físico: 13868 Conteúdo: 0
+Endereço Virtual: 7477 Endereço Físico: 12853 Conteúdo: 0
+Page Fault! Página 173 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 75 no quadro 55.
+Endereço Virtual: 44455 Endereço Físico: 14247 Conteúdo: 105
+Endereço Virtual: 59546 Endereço Físico: 26010 Conteúdo: 58
+Page Fault! Página 192 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 142 no quadro 56.
+Endereço Virtual: 49347 Endereço Físico: 14531 Conteúdo: 48
+Page Fault! Página 142 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 40 no quadro 57.
+Endereço Virtual: 36539 Endereço Físico: 14779 Conteúdo: 174
+Page Fault! Página 48 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 230 no quadro 58.
+Endereço Virtual: 12453 Endereço Físico: 15013 Conteúdo: 0
+Page Fault! Página 193 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 20 no quadro 59.
+Endereço Virtual: 49640 Endereço Físico: 15336 Conteúdo: 0
+Página 110 encontrada no quadro 8 (Tabela de Páginas).
+Endereço Virtual: 28290 Endereço Físico: 2178 Conteúdo: 27
+Page Fault! Página 175 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 228 no quadro 60.
+Endereço Virtual: 44817 Endereço Físico: 15377 Conteúdo: 0
+Página 33 encontrada no quadro 78 (Tabela de Páginas).
+Endereço Virtual: 8565 Endereço Físico: 20085 Conteúdo: 0
+Page Fault! Página 64 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 107 no quadro 61.
+Endereço Virtual: 16399 Endereço Físico: 15631 Conteúdo: 3
+Página 163 encontrada no quadro 25 (Tabela de Páginas).
+Endereço Virtual: 41934 Endereço Físico: 6606 Conteúdo: 40
+Page Fault! Página 177 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 201 no quadro 62.
+Endereço Virtual: 45457 Endereço Físico: 16017 Conteúdo: 0
+Página 132 encontrada no quadro 41 (Tabela de Páginas).
+Endereço Virtual: 33856 Endereço Físico: 10560 Conteúdo: 0
+Página 76 encontrada no quadro 88 (Tabela de Páginas).
+Endereço Virtual: 19498 Endereço Físico: 22570 Conteúdo: 19
+Página 68 encontrada no quadro 37 (Tabela de Páginas).
+Endereço Virtual: 17661 Endereço Físico: 9725 Conteúdo: 0
+Página 249 encontrada no quadro 85 (Tabela de Páginas).
+Endereço Virtual: 63829 Endereço Físico: 21845 Conteúdo: 0
+Page Fault! Página 164 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 119 no quadro 63.
+Endereço Virtual: 42034 Endereço Físico: 16178 Conteúdo: 41
+Página 113 encontrada no quadro 64 (Tabela de Páginas).
+Endereço Virtual: 28928 Endereço Físico: 16384 Conteúdo: 0
+Page Fault! Página 119 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 113 no quadro 64.
+Endereço Virtual: 30711 Endereço Físico: 16631 Conteúdo: 253
+Page Fault! Página 34 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 79 no quadro 65.
+Endereço Virtual: 8800 Endereço Físico: 16736 Conteúdo: 0
+Page Fault! Página 204 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 247 no quadro 66.
+Endereço Virtual: 52335 Endereço Físico: 17007 Conteúdo: 27
+Page Fault! Página 151 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 2 no quadro 67.
+Endereço Virtual: 38775 Endereço Físico: 17271 Conteúdo: 221
+Página 205 encontrada no quadro 117 (Tabela de Páginas).
+Endereço Virtual: 52704 Endereço Físico: 30176 Conteúdo: 0
+Page Fault! Página 95 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 168 no quadro 68.
+Endereço Virtual: 24380 Endereço Físico: 17468 Conteúdo: 0
+Endereço Virtual: 19602 Endereço Físico: 22674 Conteúdo: 19
+Page Fault! Página 226 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 188 no quadro 69.
+Endereço Virtual: 57998 Endereço Físico: 17806 Conteúdo: 56
+Page Fault! Página 11 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 135 no quadro 70.
+Endereço Virtual: 2919 Endereço Físico: 18023 Conteúdo: 217
+Page Fault! Página 32 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 144 no quadro 71.
+Endereço Virtual: 8362 Endereço Físico: 18346 Conteúdo: 8
+Page Fault! Página 69 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 197 no quadro 72.
+Endereço Virtual: 17884 Endereço Físico: 18652 Conteúdo: 0
+Page Fault! Página 178 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 70 no quadro 73.
+Endereço Virtual: 45737 Endereço Físico: 18857 Conteúdo: 0
+Página 187 encontrada no quadro 100 (Tabela de Páginas).
+Endereço Virtual: 47894 Endereço Físico: 25622 Conteúdo: 46
+Page Fault! Página 233 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 15 no quadro 74.
+Endereço Virtual: 59667 Endereço Físico: 18963 Conteúdo: 68
+Page Fault! Página 40 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 212 no quadro 75.
+Endereço Virtual: 10385 Endereço Físico: 19345 Conteúdo: 0
+Page Fault! Página 206 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 167 no quadro 76.
+Endereço Virtual: 52782 Endereço Físico: 19502 Conteúdo: 51
+Page Fault! Página 251 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 183 no quadro 77.
+Endereço Virtual: 64416 Endereço Físico: 19872 Conteúdo: 0
+Page Fault! Página 159 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 33 no quadro 78.
+Endereço Virtual: 40946 Endereço Físico: 20210 Conteúdo: 39
+Page Fault! Página 65 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 149 no quadro 79.
+Endereço Virtual: 16778 Endereço Físico: 20362 Conteúdo: 16
+Página 106 encontrada no quadro 112 (Tabela de Páginas).
+Endereço Virtual: 27159 Endereço Físico: 28695 Conteúdo: 133
+Endereço Virtual: 24324 Endereço Físico: 17412 Conteúdo: 0
+Page Fault! Página 126 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 91 no quadro 80.
+Endereço Virtual: 32450 Endereço Físico: 20674 Conteúdo: 31
+Page Fault! Página 35 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 166 no quadro 81.
+Endereço Virtual: 9108 Endereço Físico: 20884 Conteúdo: 0
+Página 255 encontrada no quadro 119 (Tabela de Páginas).
+Endereço Virtual: 65305 Endereço Físico: 30489 Conteúdo: 0
+Página 76 encontrada no quadro 88 (Tabela de Páginas).
+Endereço Virtual: 19575 Endereço Físico: 22647 Conteúdo: 29
+Página 43 encontrada no quadro 30 (Tabela de Páginas).
+Endereço Virtual: 11117 Endereço Físico: 7789 Conteúdo: 0
+Page Fault! Página 254 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 62 no quadro 82.
+Endereço Virtual: 65170 Endereço Físico: 21138 Conteúdo: 63
+Página 226 encontrada no quadro 69 (Tabela de Páginas).
+Endereço Virtual: 58013 Endereço Físico: 17821 Conteúdo: 0
+Página 240 encontrada no quadro 90 (Tabela de Páginas).
+Endereço Virtual: 61676 Endereço Físico: 23276 Conteúdo: 0
+Página 248 encontrada no quadro 110 (Tabela de Páginas).
+Endereço Virtual: 63510 Endereço Físico: 28182 Conteúdo: 62
+Página 68 encontrada no quadro 37 (Tabela de Páginas).
+Endereço Virtual: 17458 Endereço Físico: 9522 Conteúdo: 17
+Page Fault! Página 213 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 146 no quadro 83.
+Endereço Virtual: 54675 Endereço Físico: 21395 Conteúdo: 100
+Página 6 encontrada no quadro 49 (Tabela de Páginas).
+Endereço Virtual: 1713 Endereço Físico: 12721 Conteúdo: 0
+Page Fault! Página 215 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 21 no quadro 84.
+Endereço Virtual: 55105 Endereço Físico: 21569 Conteúdo: 0
+Endereço Virtual: 65321 Endereço Físico: 30505 Conteúdo: 0
+Page Fault! Página 176 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 249 no quadro 85.
+Endereço Virtual: 45278 Endereço Físico: 21982 Conteúdo: 44
+Page Fault! Página 102 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 246 no quadro 86.
+Endereço Virtual: 26256 Endereço Físico: 22160 Conteúdo: 0
+Page Fault! Página 250 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 241 no quadro 87.
+Endereço Virtual: 64198 Endereço Físico: 22470 Conteúdo: 62
+Page Fault! Página 115 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 76 no quadro 88.
+Endereço Virtual: 29441 Endereço Físico: 22529 Conteúdo: 0
+Página 7 encontrada no quadro 1 (Tabela de Páginas).
+Endereço Virtual: 1928 Endereço Físico: 392 Conteúdo: 0
+Página 154 encontrada no quadro 48 (Tabela de Páginas).
+Endereço Virtual: 39425 Endereço Físico: 12289 Conteúdo: 0
+Page Fault! Página 125 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 36 no quadro 89.
+Endereço Virtual: 32000 Endereço Físico: 22784 Conteúdo: 0
+Página 111 encontrada no quadro 109 (Tabela de Páginas).
+Endereço Virtual: 28549 Endereço Físico: 28037 Conteúdo: 0
+Page Fault! Página 180 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 240 no quadro 90.
+Endereço Virtual: 46295 Endereço Físico: 23255 Conteúdo: 53
+Page Fault! Página 88 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 122 no quadro 91.
+Endereço Virtual: 22772 Endereço Físico: 23540 Conteúdo: 0
+Página 227 encontrada no quadro 5 (Tabela de Páginas).
+Endereço Virtual: 58228 Endereço Físico: 1396 Conteúdo: 0
+Endereço Virtual: 63525 Endereço Físico: 28197 Conteúdo: 0
+Page Fault! Página 127 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 237 no quadro 92.
+Endereço Virtual: 32602 Endereço Físico: 23642 Conteúdo: 31
+Endereço Virtual: 46195 Endereço Físico: 23155 Conteúdo: 28
+Página 218 encontrada no quadro 7 (Tabela de Páginas).
+Endereço Virtual: 55849 Endereço Físico: 1833 Conteúdo: 0
+Page Fault! Página 181 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 243 no quadro 93.
+Endereço Virtual: 46454 Endereço Físico: 23926 Conteúdo: 45
+Página 29 encontrada no quadro 50 (Tabela de Páginas).
+Endereço Virtual: 7487 Endereço Físico: 12863 Conteúdo: 79
+Página 132 encontrada no quadro 41 (Tabela de Páginas).
+Endereço Virtual: 33879 Endereço Físico: 10583 Conteúdo: 21
+Página 164 encontrada no quadro 63 (Tabela de Páginas).
+Endereço Virtual: 42004 Endereço Físico: 16148 Conteúdo: 0
+Page Fault! Página 33 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 85 no quadro 94.
+Endereço Virtual: 8599 Endereço Físico: 24215 Conteúdo: 101
+Page Fault! Página 72 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 103 no quadro 95.
+Endereço Virtual: 18641 Endereço Físico: 24529 Conteúdo: 0
+Page Fault! Página 191 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 58 no quadro 96.
+Endereço Virtual: 49015 Endereço Físico: 24695 Conteúdo: 221
+Página 104 encontrada no quadro 45 (Tabela de Páginas).
+Endereço Virtual: 26830 Endereço Físico: 11726 Conteúdo: 26
+Page Fault! Página 135 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 161 no quadro 97.
+Endereço Virtual: 34754 Endereço Físico: 25026 Conteúdo: 33
+Página 57 encontrada no quadro 2 (Tabela de Páginas).
+Endereço Virtual: 14668 Endereço Físico: 588 Conteúdo: 0
+Page Fault! Página 149 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 219 no quadro 98.
+Endereço Virtual: 38362 Endereço Físico: 25306 Conteúdo: 37
+Página 151 encontrada no quadro 67 (Tabela de Páginas).
+Endereço Virtual: 38791 Endereço Físico: 17287 Conteúdo: 225
+Page Fault! Página 16 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 203 no quadro 99.
+Endereço Virtual: 4171 Endereço Físico: 25419 Conteúdo: 18
+Page Fault! Página 179 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 187 no quadro 100.
+Endereço Virtual: 45975 Endereço Físico: 25751 Conteúdo: 229
+Endereço Virtual: 14623 Endereço Físico: 543 Conteúdo: 71
+Page Fault! Página 243 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 232 no quadro 101.
+Endereço Virtual: 62393 Endereço Físico: 26041 Conteúdo: 0
+Page Fault! Página 252 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 198 no quadro 102.
+Endereço Virtual: 64658 Endereço Físico: 26258 Conteúdo: 63
+Page Fault! Página 42 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 27 no quadro 103.
+Endereço Virtual: 10963 Endereço Físico: 26579 Conteúdo: 180
+Página 35 encontrada no quadro 81 (Tabela de Páginas).
+Endereço Virtual: 9058 Endereço Físico: 20834 Conteúdo: 8
+Página 199 encontrada no quadro 46 (Tabela de Páginas).
+Endereço Virtual: 51031 Endereço Físico: 11863 Conteúdo: 213
+Página 126 encontrada no quadro 80 (Tabela de Páginas).
+Endereço Virtual: 32425 Endereço Físico: 20649 Conteúdo: 0
+Página 177 encontrada no quadro 62 (Tabela de Páginas).
+Endereço Virtual: 45483 Endereço Físico: 16043 Conteúdo: 106
+Page Fault! Página 174 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 136 no quadro 104.
+Endereço Virtual: 44611 Endereço Físico: 26691 Conteúdo: 144
+Página 248 encontrada no quadro 110 (Tabela de Páginas).
+Endereço Virtual: 63664 Endereço Físico: 28336 Conteúdo: 0
+Page Fault! Página 214 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 105 no quadro 105.
+Endereço Virtual: 54920 Endereço Físico: 27016 Conteúdo: 0
+Página 29 encontrada no quadro 50 (Tabela de Páginas).
+Endereço Virtual: 7663 Endereço Físico: 13039 Conteúdo: 123
+Page Fault! Página 220 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 202 no quadro 106.
+Endereço Virtual: 56480 Endereço Físico: 27296 Conteúdo: 0
+Page Fault! Página 5 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 41 no quadro 107.
+Endereço Virtual: 1489 Endereço Físico: 27601 Conteúdo: 0
+Página 111 encontrada no quadro 109 (Tabela de Páginas).
+Endereço Virtual: 28438 Endereço Físico: 27926 Conteúdo: 27
+Página 255 encontrada no quadro 119 (Tabela de Páginas).
+Endereço Virtual: 65449 Endereço Físico: 30633 Conteúdo: 0
+Página 48 encontrada no quadro 58 (Tabela de Páginas).
+Endereço Virtual: 12441 Endereço Físico: 15001 Conteúdo: 0
+Page Fault! Página 228 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 18 no quadro 108.
+Endereço Virtual: 58530 Endereço Físico: 27810 Conteúdo: 57
+Endereço Virtual: 63570 Endereço Físico: 28242 Conteúdo: 62
+Página 102 encontrada no quadro 86 (Tabela de Páginas).
+Endereço Virtual: 26251 Endereço Físico: 22155 Conteúdo: 162
+Page Fault! Página 62 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 111 no quadro 109.
+Endereço Virtual: 15972 Endereço Físico: 28004 Conteúdo: 0
+Página 139 encontrada no quadro 51 (Tabela de Páginas).
+Endereço Virtual: 35826 Endereço Físico: 13298 Conteúdo: 34
+Page Fault! Página 21 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 248 no quadro 110.
+Endereço Virtual: 5491 Endereço Físico: 28275 Conteúdo: 92
+Page Fault! Página 211 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 245 no quadro 111.
+Endereço Virtual: 54253 Endereço Físico: 28653 Conteúdo: 0
+Página 193 encontrada no quadro 59 (Tabela de Páginas).
+Endereço Virtual: 49655 Endereço Físico: 15351 Conteúdo: 125
+Page Fault! Página 22 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 106 no quadro 112.
+Endereço Virtual: 5868 Endereço Físico: 28908 Conteúdo: 0
+Página 78 encontrada no quadro 34 (Tabela de Páginas).
+Endereço Virtual: 20163 Endereço Físico: 8899 Conteúdo: 176
+Página 199 encontrada no quadro 46 (Tabela de Páginas).
+Endereço Virtual: 51079 Endereço Físico: 11911 Conteúdo: 225
+Page Fault! Página 83 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 25 no quadro 113.
+Endereço Virtual: 21398 Endereço Físico: 29078 Conteúdo: 20
+Página 127 encontrada no quadro 92 (Tabela de Páginas).
+Endereço Virtual: 32756 Endereço Físico: 23796 Conteúdo: 0
+Página 250 encontrada no quadro 87 (Tabela de Páginas).
+Endereço Virtual: 64196 Endereço Físico: 22468 Conteúdo: 0
+Page Fault! Página 168 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 147 no quadro 114.
+Endereço Virtual: 43218 Endereço Físico: 29394 Conteúdo: 42
+Page Fault! Página 84 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 169 no quadro 115.
+Endereço Virtual: 21583 Endereço Físico: 29519 Conteúdo: 19
+Page Fault! Página 97 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 184 no quadro 116.
+Endereço Virtual: 25086 Endereço Físico: 29950 Conteúdo: 24
+Página 177 encontrada no quadro 62 (Tabela de Páginas).
+Endereço Virtual: 45515 Endereço Físico: 16075 Conteúdo: 114
+Página 50 encontrada no quadro 118 (Tabela de Páginas).
+Endereço Virtual: 12893 Endereço Físico: 30301 Conteúdo: 0
+Page Fault! Página 89 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 205 no quadro 117.
+Endereço Virtual: 22914 Endereço Físico: 30082 Conteúdo: 22
+Page Fault! Página 230 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 50 no quadro 118.
+Endereço Virtual: 58969 Endereço Físico: 30297 Conteúdo: 0
+Endereço Virtual: 20094 Endereço Físico: 8830 Conteúdo: 19
+Page Fault! Página 53 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 255 no quadro 119.
+Endereço Virtual: 13730 Endereço Físico: 30626 Conteúdo: 13
+Page Fault! Página 172 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 223 no quadro 120.
+Endereço Virtual: 44059 Endereço Físico: 30747 Conteúdo: 6
+Page Fault! Página 113 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 49 no quadro 121.
+Endereço Virtual: 28931 Endereço Físico: 30979 Conteúdo: 64
+Página 52 encontrada no quadro 13 (Tabela de Páginas).
+Endereço Virtual: 13533 Endereço Físico: 3549 Conteúdo: 0
+Page Fault! Página 129 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 54 no quadro 122.
+Endereço Virtual: 33134 Endereço Físico: 31342 Conteúdo: 32
+Page Fault! Página 111 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 194 no quadro 123.
+Endereço Virtual: 28483 Endereço Físico: 31555 Conteúdo: 208
+Página 4 encontrada no quadro 35 (Tabela de Páginas).
+Endereço Virtual: 1220 Endereço Físico: 9156 Conteúdo: 0
+Página 149 encontrada no quadro 98 (Tabela de Páginas).
+Endereço Virtual: 38174 Endereço Físico: 25118 Conteúdo: 37
+Página 208 encontrada no quadro 10 (Tabela de Páginas).
+Endereço Virtual: 53502 Endereço Físico: 2814 Conteúdo: 52
+Page Fault! Página 169 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 60 no quadro 124.
+Endereço Virtual: 43328 Endereço Físico: 31808 Conteúdo: 0
+Page Fault! Página 19 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 185 no quadro 125.
+Endereço Virtual: 4970 Endereço Físico: 32106 Conteúdo: 4
+Página 31 encontrada no quadro 4 (Tabela de Páginas).
+Endereço Virtual: 8090 Endereço Físico: 1178 Conteúdo: 7
+Page Fault! Página 10 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 59 no quadro 126.
+Endereço Virtual: 2661 Endereço Físico: 32357 Conteúdo: 0
+Page Fault! Página 210 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 200 no quadro 127.
+Endereço Virtual: 53903 Endereço Físico: 32655 Conteúdo: 163
+Página 43 encontrada no quadro 30 (Tabela de Páginas).
+Endereço Virtual: 11025 Endereço Físico: 7697 Conteúdo: 0
+Página 104 encontrada no quadro 45 (Tabela de Páginas).
+Endereço Virtual: 26627 Endereço Físico: 11523 Conteúdo: 0
+Page Fault! Página 70 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 190 no quadro 0.
+Endereço Virtual: 18117 Endereço Físico: 197 Conteúdo: 0
+Page Fault! Página 56 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 7 no quadro 1.
+Endereço Virtual: 14505 Endereço Físico: 425 Conteúdo: 0
+Page Fault! Página 240 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 57 no quadro 2.
+Endereço Virtual: 61528 Endereço Físico: 600 Conteúdo: 0
+Page Fault! Página 79 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 94 no quadro 3.
+Endereço Virtual: 20423 Endereço Físico: 967 Conteúdo: 241
+Page Fault! Página 105 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 31 no quadro 4.
+Endereço Virtual: 26962 Endereço Físico: 1106 Conteúdo: 26
+Página 142 encontrada no quadro 57 (Tabela de Páginas).
+Endereço Virtual: 36392 Endereço Físico: 14632 Conteúdo: 0
+Page Fault! Página 44 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 227 no quadro 5.
+Endereço Virtual: 11365 Endereço Físico: 1381 Conteúdo: 0
+Page Fault! Página 198 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 207 no quadro 6.
+Endereço Virtual: 50882 Endereço Físico: 1730 Conteúdo: 49
+Página 162 encontrada no quadro 40 (Tabela de Páginas).
+Endereço Virtual: 41668 Endereço Físico: 10436 Conteúdo: 0
+Página 119 encontrada no quadro 64 (Tabela de Páginas).
+Endereço Virtual: 30497 Endereço Físico: 16417 Conteúdo: 0
+Page Fault! Página 141 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 218 no quadro 7.
+Endereço Virtual: 36216 Endereço Físico: 1912 Conteúdo: 0
+Página 21 encontrada no quadro 110 (Tabela de Páginas).
+Endereço Virtual: 5619 Endereço Físico: 28403 Conteúdo: 124
+Page Fault! Página 144 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 110 no quadro 8.
+Endereço Virtual: 36983 Endereço Físico: 2167 Conteúdo: 29
+Page Fault! Página 232 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 8 no quadro 9.
+Endereço Virtual: 59557 Endereço Físico: 2469 Conteúdo: 0
+Página 143 encontrada no quadro 11 (Tabela de Páginas).
+Endereço Virtual: 36663 Endereço Físico: 2871 Conteúdo: 205
+Endereço Virtual: 36436 Endereço Físico: 14676 Conteúdo: 0
+Endereço Virtual: 37057 Endereço Físico: 2241 Conteúdo: 0
+Page Fault! Página 92 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 208 no quadro 10.
+Endereço Virtual: 23585 Endereço Físico: 2593 Conteúdo: 0
+Page Fault! Página 229 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 143 no quadro 11.
+Endereço Virtual: 58791 Endereço Físico: 2983 Conteúdo: 105
+Page Fault! Página 182 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 90 no quadro 12.
+Endereço Virtual: 46666 Endereço Físico: 3146 Conteúdo: 45
+Página 251 encontrada no quadro 77 (Tabela de Páginas).
+Endereço Virtual: 64475 Endereço Físico: 19931 Conteúdo: 246
+Página 84 encontrada no quadro 115 (Tabela de Páginas).
+Endereço Virtual: 21615 Endereço Físico: 29551 Conteúdo: 27
+Page Fault! Página 160 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 52 no quadro 13.
+Endereço Virtual: 41090 Endereço Físico: 3458 Conteúdo: 40
+Página 6 encontrada no quadro 49 (Tabela de Páginas).
+Endereço Virtual: 1771 Endereço Físico: 12779 Conteúdo: 186
+Page Fault! Página 185 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 77 no quadro 14.
+Endereço Virtual: 47513 Endereço Físico: 3737 Conteúdo: 0
+Page Fault! Página 153 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 101 no quadro 15.
+Endereço Virtual: 39338 Endereço Físico: 4010 Conteúdo: 38
+Página 5 encontrada no quadro 107 (Tabela de Páginas).
+Endereço Virtual: 1390 Endereço Físico: 27502 Conteúdo: 1
+Página 151 encontrada no quadro 67 (Tabela de Páginas).
+Endereço Virtual: 38772 Endereço Físico: 17268 Conteúdo: 0
+Page Fault! Página 227 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 244 no quadro 16.
+Endereço Virtual: 58149 Endereço Físico: 4133 Conteúdo: 0
+Página 28 encontrada no quadro 47 (Tabela de Páginas).
+Endereço Virtual: 7196 Endereço Físico: 12060 Conteúdo: 0
+Página 35 encontrada no quadro 81 (Tabela de Páginas).
+Endereço Virtual: 9123 Endereço Físico: 20899 Conteúdo: 232
+Página 29 encontrada no quadro 50 (Tabela de Páginas).
+Endereço Virtual: 7491 Endereço Físico: 12867 Conteúdo: 80
+Page Fault! Página 244 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 114 no quadro 17.
+Endereço Virtual: 62616 Endereço Físico: 4504 Conteúdo: 0
+Page Fault! Página 60 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 148 no quadro 18.
+Endereço Virtual: 15436 Endereço Físico: 4684 Conteúdo: 0
+Página 68 encontrada no quadro 37 (Tabela de Páginas).
+Endereço Virtual: 17491 Endereço Físico: 9555 Conteúdo: 20
+Página 209 encontrada no quadro 20 (Tabela de Páginas).
+Endereço Virtual: 53656 Endereço Físico: 5272 Conteúdo: 0
+Page Fault! Página 103 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 222 no quadro 19.
+Endereço Virtual: 26449 Endereço Físico: 4945 Conteúdo: 0
+Page Fault! Página 136 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 209 no quadro 20.
+Endereço Virtual: 34935 Endereço Físico: 5239 Conteúdo: 29
+Page Fault! Página 77 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 82 no quadro 21.
+Endereço Virtual: 19864 Endereço Físico: 5528 Conteúdo: 0
+Page Fault! Página 200 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 224 no quadro 22.
+Endereço Virtual: 51388 Endereço Físico: 5820 Conteúdo: 0
+Page Fault! Página 59 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 155 no quadro 23.
+Endereço Virtual: 15155 Endereço Físico: 5939 Conteúdo: 204
+Page Fault! Página 253 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 96 no quadro 24.
+Endereço Virtual: 64775 Endereço Físico: 6151 Conteúdo: 65
+Page Fault! Página 187 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 163 no quadro 25.
+Endereço Virtual: 47969 Endereço Físico: 6497 Conteúdo: 0
+Page Fault! Página 63 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 81 no quadro 26.
+Endereço Virtual: 16315 Endereço Físico: 6843 Conteúdo: 238
+Página 5 encontrada no quadro 107 (Tabela de Páginas).
+Endereço Virtual: 1342 Endereço Físico: 27454 Conteúdo: 1
+Página 199 encontrada no quadro 46 (Tabela de Páginas).
+Endereço Virtual: 51185 Endereço Físico: 12017 Conteúdo: 0
+Page Fault! Página 23 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 158 no quadro 27.
+Endereço Virtual: 6043 Endereço Físico: 7067 Conteúdo: 230
+Página 83 encontrada no quadro 113 (Tabela de Páginas).
+Endereço Virtual: 21398 Endereço Físico: 29078 Conteúdo: 20
+Página 12 encontrada no quadro 32 (Tabela de Páginas).
+Endereço Virtual: 3273 Endereço Físico: 8393 Conteúdo: 0
+Page Fault! Página 36 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 93 no quadro 28.
+Endereço Virtual: 9370 Endereço Físico: 7322 Conteúdo: 9
+Page Fault! Página 138 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 137 no quadro 29.
+Endereço Virtual: 35463 Endereço Físico: 7559 Conteúdo: 161
+Page Fault! Página 110 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 43 no quadro 30.
+Endereço Virtual: 28205 Endereço Físico: 7725 Conteúdo: 0
+Page Fault! Página 9 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 152 no quadro 31.
+Endereço Virtual: 2351 Endereço Físico: 7983 Conteúdo: 75
+Página 113 encontrada no quadro 121 (Tabela de Páginas).
+Endereço Virtual: 28999 Endereço Físico: 31047 Conteúdo: 81
+Page Fault! Página 186 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 12 no quadro 32.
+Endereço Virtual: 47699 Endereço Físico: 8275 Conteúdo: 148
+Page Fault! Página 183 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 26 no quadro 33.
+Endereço Virtual: 46870 Endereço Físico: 8470 Conteúdo: 45
+Page Fault! Página 87 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 78 no quadro 34.
+Endereço Virtual: 22311 Endereço Físico: 8743 Conteúdo: 201
+Page Fault! Página 86 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 4 no quadro 35.
+Endereço Virtual: 22124 Endereço Físico: 9068 Conteúdo: 0
+Endereço Virtual: 22427 Endereço Físico: 8859 Conteúdo: 230
+Página 192 encontrada no quadro 56 (Tabela de Páginas).
+Endereço Virtual: 49344 Endereço Físico: 14528 Conteúdo: 0
+Page Fault! Página 90 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 47 no quadro 36.
+Endereço Virtual: 23224 Endereço Físico: 9400 Conteúdo: 0
+Página 21 encontrada no quadro 110 (Tabela de Páginas).
+Endereço Virtual: 5514 Endereço Físico: 28298 Conteúdo: 5
+Page Fault! Página 80 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 68 no quadro 37.
+Endereço Virtual: 20504 Endereço Físico: 9496 Conteúdo: 0
+Page Fault! Página 1 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 116 no quadro 38.
+Endereço Virtual: 376 Endereço Físico: 9848 Conteúdo: 0
+Page Fault! Página 7 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 45 no quadro 39.
+Endereço Virtual: 2014 Endereço Físico: 10206 Conteúdo: 1
+Página 151 encontrada no quadro 67 (Tabela de Páginas).
+Endereço Virtual: 38700 Endereço Físico: 17196 Conteúdo: 0
+Página 51 encontrada no quadro 53 (Tabela de Páginas).
+Endereço Virtual: 13098 Endereço Físico: 13610 Conteúdo: 12
+Página 243 encontrada no quadro 101 (Tabela de Páginas).
+Endereço Virtual: 62435 Endereço Físico: 26083 Conteúdo: 248
+Página 187 encontrada no quadro 25 (Tabela de Páginas).
+Endereço Virtual: 48046 Endereço Físico: 6574 Conteúdo: 46
+Page Fault! Página 247 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 162 no quadro 40.
+Endereço Virtual: 63464 Endereço Físico: 10472 Conteúdo: 0
+Page Fault! Página 49 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 132 no quadro 41.
+Endereço Virtual: 12798 Endereço Físico: 10750 Conteúdo: 12
+Página 199 encontrada no quadro 46 (Tabela de Páginas).
+Endereço Virtual: 51178 Endereço Físico: 12010 Conteúdo: 49
+Página 33 encontrada no quadro 94 (Tabela de Páginas).
+Endereço Virtual: 8627 Endereço Físico: 24243 Conteúdo: 108
+Página 105 encontrada no quadro 4 (Tabela de Páginas).
+Endereço Virtual: 27083 Endereço Físico: 1227 Conteúdo: 114
+Page Fault! Página 184 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 24 no quadro 42.
+Endereço Virtual: 47198 Endereço Físico: 10846 Conteúdo: 46
+Page Fault! Página 171 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 231 no quadro 43.
+Endereço Virtual: 44021 Endereço Físico: 11253 Conteúdo: 0
+Page Fault! Página 128 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 239 no quadro 44.
+Endereço Virtual: 32792 Endereço Físico: 11288 Conteúdo: 0
+Endereço Virtual: 43996 Endereço Físico: 11228 Conteúdo: 0
+Página 160 encontrada no quadro 13 (Tabela de Páginas).
+Endereço Virtual: 41126 Endereço Físico: 3494 Conteúdo: 40
+Página 250 encontrada no quadro 87 (Tabela de Páginas).
+Endereço Virtual: 64244 Endereço Físico: 22516 Conteúdo: 0
+Página 144 encontrada no quadro 8 (Tabela de Páginas).
+Endereço Virtual: 37047 Endereço Físico: 2231 Conteúdo: 45
+Page Fault! Página 235 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 104 no quadro 45.
+Endereço Virtual: 60281 Endereço Físico: 11641 Conteúdo: 0
+Página 206 encontrada no quadro 76 (Tabela de Páginas).
+Endereço Virtual: 52904 Endereço Físico: 19624 Conteúdo: 0
+Page Fault! Página 30 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 199 no quadro 46.
+Endereço Virtual: 7768 Endereço Físico: 11864 Conteúdo: 0
+Page Fault! Página 216 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 28 no quadro 47.
+Endereço Virtual: 55359 Endereço Físico: 12095 Conteúdo: 15
+Page Fault! Página 12 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 154 no quadro 48.
+Endereço Virtual: 3230 Endereço Físico: 12446 Conteúdo: 3
+Página 175 encontrada no quadro 60 (Tabela de Páginas).
+Endereço Virtual: 44813 Endereço Físico: 15373 Conteúdo: 0
+Página 16 encontrada no quadro 99 (Tabela de Páginas).
+Endereço Virtual: 4116 Endereço Físico: 25364 Conteúdo: 0
+Página 254 encontrada no quadro 82 (Tabela de Páginas).
+Endereço Virtual: 65222 Endereço Físico: 21190 Conteúdo: 63
+Page Fault! Página 109 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 6 no quadro 49.
+Endereço Virtual: 28083 Endereço Físico: 12723 Conteúdo: 108
+Page Fault! Página 236 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 29 no quadro 50.
+Endereço Virtual: 60660 Endereço Físico: 13044 Conteúdo: 0
+Page Fault! Página 0 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 139 no quadro 51.
+Endereço Virtual: 39 Endereço Físico: 13095 Conteúdo: 9
+Página 1 encontrada no quadro 38 (Tabela de Páginas).
+Endereço Virtual: 328 Endereço Físico: 9800 Conteúdo: 0
+Página 186 encontrada no quadro 32 (Tabela de Páginas).
+Endereço Virtual: 47868 Endereço Físico: 8444 Conteúdo: 0
+Page Fault! Página 50 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 108 no quadro 52.
+Endereço Virtual: 13009 Endereço Físico: 13521 Conteúdo: 0
+Página 87 encontrada no quadro 34 (Tabela de Páginas).
+Endereço Virtual: 22378 Endereço Físico: 8810 Conteúdo: 21
+Página 153 encontrada no quadro 15 (Tabela de Páginas).
+Endereço Virtual: 39304 Endereço Físico: 3976 Conteúdo: 0
+Page Fault! Página 43 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 51 no quadro 53.
+Endereço Virtual: 11171 Endereço Físico: 13731 Conteúdo: 232
+Page Fault! Página 31 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 38 no quadro 54.
+Endereço Virtual: 8079 Endereço Físico: 13967 Conteúdo: 227
+Página 206 encontrada no quadro 76 (Tabela de Páginas).
+Endereço Virtual: 52879 Endereço Físico: 19599 Conteúdo: 163
+Page Fault! Página 20 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 173 no quadro 55.
+Endereço Virtual: 5123 Endereço Físico: 14083 Conteúdo: 0
+Page Fault! Página 17 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 192 no quadro 56.
+Endereço Virtual: 4356 Endereço Físico: 14340 Conteúdo: 0
+Página 178 encontrada no quadro 73 (Tabela de Páginas).
+Endereço Virtual: 45745 Endereço Físico: 18865 Conteúdo: 0
+Página 128 encontrada no quadro 44 (Tabela de Páginas).
+Endereço Virtual: 32952 Endereço Físico: 11448 Conteúdo: 0
+Page Fault! Página 18 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 142 no quadro 57.
+Endereço Virtual: 4657 Endereço Físico: 14641 Conteúdo: 0
+Page Fault! Página 94 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 48 no quadro 58.
+Endereço Virtual: 24142 Endereço Físico: 14926 Conteúdo: 23
+Page Fault! Página 91 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 193 no quadro 59.
+Endereço Virtual: 23319 Endereço Físico: 15127 Conteúdo: 197
+Página 53 encontrada no quadro 119 (Tabela de Páginas).
+Endereço Virtual: 13607 Endereço Físico: 30503 Conteúdo: 73
+Página 180 encontrada no quadro 90 (Tabela de Páginas).
+Endereço Virtual: 46304 Endereço Físico: 23264 Conteúdo: 0
+Página 69 encontrada no quadro 72 (Tabela de Páginas).
+Endereço Virtual: 17677 Endereço Físico: 18445 Conteúdo: 0
+Página 233 encontrada no quadro 74 (Tabela de Páginas).
+Endereço Virtual: 59691 Endereço Físico: 18987 Conteúdo: 74
+Page Fault! Página 199 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 175 no quadro 60.
+Endereço Virtual: 50967 Endereço Físico: 15383 Conteúdo: 197
+Página 30 encontrada no quadro 46 (Tabela de Páginas).
+Endereço Virtual: 7817 Endereço Físico: 11913 Conteúdo: 0
+Página 33 encontrada no quadro 94 (Tabela de Páginas).
+Endereço Virtual: 8545 Endereço Físico: 24161 Conteúdo: 0
+Página 216 encontrada no quadro 47 (Tabela de Páginas).
+Endereço Virtual: 55297 Endereço Físico: 12033 Conteúdo: 0
+Endereço Virtual: 52954 Endereço Físico: 19674 Conteúdo: 51
+Page Fault! Página 155 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 64 no quadro 61.
+Endereço Virtual: 39720 Endereço Físico: 15656 Conteúdo: 0
+Página 72 encontrada no quadro 95 (Tabela de Páginas).
+Endereço Virtual: 18455 Endereço Físico: 24343 Conteúdo: 5
+Page Fault! Página 118 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 177 no quadro 62.
+Endereço Virtual: 30349 Endereço Físico: 16013 Conteúdo: 0
+Página 247 encontrada no quadro 40 (Tabela de Páginas).
+Endereço Virtual: 63270 Endereço Físico: 10278 Conteúdo: 61
+Page Fault! Página 106 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 164 no quadro 63.
+Endereço Virtual: 27156 Endereço Físico: 16148 Conteúdo: 0
+Página 80 encontrada no quadro 37 (Tabela de Páginas).
+Endereço Virtual: 20614 Endereço Físico: 9606 Conteúdo: 20
+Page Fault! Página 75 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 119 no quadro 64.
+Endereço Virtual: 19372 Endereço Físico: 16556 Conteúdo: 0
+Page Fault! Página 190 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 34 no quadro 65.
+Endereço Virtual: 48689 Endereço Físico: 16689 Conteúdo: 0
+Page Fault! Página 192 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 204 no quadro 66.
+Endereço Virtual: 49386 Endereço Físico: 17130 Conteúdo: 48
+Page Fault! Página 197 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 151 no quadro 67.
+Endereço Virtual: 50584 Endereço Físico: 17304 Conteúdo: 0
+Page Fault! Página 202 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 95 no quadro 68.
+Endereço Virtual: 51936 Endereço Físico: 17632 Conteúdo: 0
+Página 135 encontrada no quadro 97 (Tabela de Páginas).
+Endereço Virtual: 34705 Endereço Físico: 24977 Conteúdo: 0
+Página 53 encontrada no quadro 119 (Tabela de Páginas).
+Endereço Virtual: 13653 Endereço Físico: 30549 Conteúdo: 0
+Page Fault! Página 195 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 226 no quadro 69.
+Endereço Virtual: 50077 Endereço Físico: 17821 Conteúdo: 0
+Page Fault! Página 212 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 11 no quadro 70.
+Endereço Virtual: 54518 Endereço Físico: 18166 Conteúdo: 53
+Page Fault! Página 162 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 32 no quadro 71.
+Endereço Virtual: 41482 Endereço Físico: 18186 Conteúdo: 40
+Página 16 encontrada no quadro 99 (Tabela de Páginas).
+Endereço Virtual: 4169 Endereço Físico: 25417 Conteúdo: 0
+Página 141 encontrada no quadro 7 (Tabela de Páginas).
+Endereço Virtual: 36118 Endereço Físico: 1814 Conteúdo: 35
+Page Fault! Página 37 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 69 no quadro 72.
+Endereço Virtual: 9584 Endereço Físico: 18544 Conteúdo: 0
+Página 72 encontrada no quadro 95 (Tabela de Páginas).
+Endereço Virtual: 18490 Endereço Físico: 24378 Conteúdo: 18
+Página 216 encontrada no quadro 47 (Tabela de Páginas).
+Endereço Virtual: 55420 Endereço Físico: 12156 Conteúdo: 0
+Página 22 encontrada no quadro 112 (Tabela de Páginas).
+Endereço Virtual: 5708 Endereço Físico: 28748 Conteúdo: 0
+Página 91 encontrada no quadro 59 (Tabela de Páginas).
+Endereço Virtual: 23506 Endereço Físico: 15314 Conteúdo: 22
+Página 60 encontrada no quadro 18 (Tabela de Páginas).
+Endereço Virtual: 15391 Endereço Físico: 4639 Conteúdo: 7
+Page Fault! Página 142 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 178 no quadro 73.
+Endereço Virtual: 36368 Endereço Físico: 18704 Conteúdo: 0
+Page Fault! Página 152 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 233 no quadro 74.
+Endereço Virtual: 38976 Endereço Físico: 19008 Conteúdo: 0
+Page Fault! Página 196 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 40 no quadro 75.
+Endereço Virtual: 50406 Endereço Físico: 19430 Conteúdo: 49
+Página 192 encontrada no quadro 66 (Tabela de Páginas).
+Endereço Virtual: 49236 Endereço Físico: 16980 Conteúdo: 0
+Página 254 encontrada no quadro 82 (Tabela de Páginas).
+Endereço Virtual: 65035 Endereço Físico: 21003 Conteúdo: 130
+Page Fault! Página 117 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 206 no quadro 76.
+Endereço Virtual: 30120 Endereço Físico: 19624 Conteúdo: 0
+Página 244 encontrada no quadro 17 (Tabela de Páginas).
+Endereço Virtual: 62551 Endereço Físico: 4439 Conteúdo: 21
+Página 182 encontrada no quadro 12 (Tabela de Páginas).
+Endereço Virtual: 46809 Endereço Físico: 3289 Conteúdo: 0
+Página 84 encontrada no quadro 115 (Tabela de Páginas).
+Endereço Virtual: 21687 Endereço Físico: 29623 Conteúdo: 45
+Página 210 encontrada no quadro 127 (Tabela de Páginas).
+Endereço Virtual: 53839 Endereço Físico: 32591 Conteúdo: 147
+Page Fault! Página 8 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 251 no quadro 77.
+Endereço Virtual: 2098 Endereço Físico: 19762 Conteúdo: 2
+Page Fault! Página 48 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 159 no quadro 78.
+Endereço Virtual: 12364 Endereço Físico: 20044 Conteúdo: 0
+Page Fault! Página 177 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 65 no quadro 79.
+Endereço Virtual: 45366 Endereço Físico: 20278 Conteúdo: 44
+Página 197 encontrada no quadro 67 (Tabela de Páginas).
+Endereço Virtual: 50437 Endereço Físico: 17157 Conteúdo: 0
+Page Fault! Página 143 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 126 no quadro 80.
+Endereço Virtual: 36675 Endereço Físico: 20547 Conteúdo: 208
+Página 216 encontrada no quadro 47 (Tabela de Páginas).
+Endereço Virtual: 55382 Endereço Físico: 12118 Conteúdo: 54
+Page Fault! Página 46 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 35 no quadro 81.
+Endereço Virtual: 11846 Endereço Físico: 20806 Conteúdo: 11
+Página 191 encontrada no quadro 96 (Tabela de Páginas).
+Endereço Virtual: 49127 Endereço Físico: 24807 Conteúdo: 249
+Página 77 encontrada no quadro 21 (Tabela de Páginas).
+Endereço Virtual: 19900 Endereço Físico: 5564 Conteúdo: 0
+Página 80 encontrada no quadro 37 (Tabela de Páginas).
+Endereço Virtual: 20554 Endereço Físico: 9546 Conteúdo: 20
+Página 75 encontrada no quadro 64 (Tabela de Páginas).
+Endereço Virtual: 19219 Endereço Físico: 16403 Conteúdo: 196
+Page Fault! Página 201 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 254 no quadro 82.
+Endereço Virtual: 51483 Endereço Físico: 21019 Conteúdo: 70
+Page Fault! Página 226 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 213 no quadro 83.
+Endereço Virtual: 58090 Endereço Físico: 21482 Conteúdo: 56
+Página 152 encontrada no quadro 74 (Tabela de Páginas).
+Endereço Virtual: 39074 Endereço Físico: 19106 Conteúdo: 38
+Página 62 encontrada no quadro 109 (Tabela de Páginas).
+Endereço Virtual: 16060 Endereço Físico: 28092 Conteúdo: 0
+Page Fault! Página 40 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 215 no quadro 84.
+Endereço Virtual: 10447 Endereço Físico: 21711 Conteúdo: 51
+Página 211 encontrada no quadro 111 (Tabela de Páginas).
+Endereço Virtual: 54169 Endereço Físico: 28569 Conteúdo: 0
+Endereço Virtual: 20634 Endereço Físico: 9626 Conteúdo: 20
+Page Fault! Página 224 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 176 no quadro 85.
+Endereço Virtual: 57555 Endereço Físico: 21971 Conteúdo: 52
+Page Fault! Página 239 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 102 no quadro 86.
+Endereço Virtual: 61210 Endereço Físico: 22042 Conteúdo: 59
+Página 1 encontrada no quadro 38 (Tabela de Páginas).
+Endereço Virtual: 269 Endereço Físico: 9741 Conteúdo: 0
+Página 129 encontrada no quadro 122 (Tabela de Páginas).
+Endereço Virtual: 33154 Endereço Físico: 31362 Conteúdo: 32
+Page Fault! Página 251 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 250 no quadro 87.
+Endereço Virtual: 64487 Endereço Físico: 22503 Conteúdo: 249
+Endereço Virtual: 61223 Endereço Físico: 22055 Conteúdo: 201
+Página 184 encontrada no quadro 42 (Tabela de Páginas).
+Endereço Virtual: 47292 Endereço Físico: 10940 Conteúdo: 0
+Page Fault! Página 85 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 115 no quadro 88.
+Endereço Virtual: 21852 Endereço Físico: 22620 Conteúdo: 0
+Página 20 encontrada no quadro 55 (Tabela de Páginas).
+Endereço Virtual: 5281 Endereço Físico: 14241 Conteúdo: 0
+Página 179 encontrada no quadro 100 (Tabela de Páginas).
+Endereço Virtual: 45912 Endereço Físico: 25688 Conteúdo: 0
+Página 127 encontrada no quadro 92 (Tabela de Páginas).
+Endereço Virtual: 32532 Endereço Físico: 23572 Conteúdo: 0
+Page Fault! Página 246 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 125 no quadro 89.
+Endereço Virtual: 63067 Endereço Físico: 22875 Conteúdo: 150
+Página 162 encontrada no quadro 71 (Tabela de Páginas).
+Endereço Virtual: 41683 Endereço Físico: 18387 Conteúdo: 180
+Page Fault! Página 81 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 180 no quadro 90.
+Endereço Virtual: 20981 Endereço Físico: 23285 Conteúdo: 0
+Page Fault! Página 132 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 88 no quadro 91.
+Endereço Virtual: 33881 Endereço Físico: 23385 Conteúdo: 0
+Page Fault! Página 163 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 127 no quadro 92.
+Endereço Virtual: 41785 Endereço Físico: 23609 Conteúdo: 0
+Página 17 encontrada no quadro 56 (Tabela de Páginas).
+Endereço Virtual: 4580 Endereço Físico: 14564 Conteúdo: 0
+Page Fault! Página 161 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 181 no quadro 93.
+Endereço Virtual: 41389 Endereço Físico: 23981 Conteúdo: 0
+Página 111 encontrada no quadro 123 (Tabela de Páginas).
+Endereço Virtual: 28572 Endereço Físico: 31644 Conteúdo: 0
+Page Fault! Página 3 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 33 no quadro 94.
+Endereço Virtual: 782 Endereço Físico: 24078 Conteúdo: 0
+Página 118 encontrada no quadro 62 (Tabela de Páginas).
+Endereço Virtual: 30273 Endereço Físico: 15937 Conteúdo: 0
+Página 243 encontrada no quadro 101 (Tabela de Páginas).
+Endereço Virtual: 62267 Endereço Físico: 25915 Conteúdo: 206
+Página 70 encontrada no quadro 0 (Tabela de Páginas).
+Endereço Virtual: 17922 Endereço Físico: 2 Conteúdo: 17
+Página 247 encontrada no quadro 40 (Tabela de Páginas).
+Endereço Virtual: 63238 Endereço Físico: 10246 Conteúdo: 61
+Página 12 encontrada no quadro 48 (Tabela de Páginas).
+Endereço Virtual: 3308 Endereço Físico: 12524 Conteúdo: 0
+Página 103 encontrada no quadro 19 (Tabela de Páginas).
+Endereço Virtual: 26545 Endereço Físico: 5041 Conteúdo: 0
+Page Fault! Página 173 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 72 no quadro 95.
+Endereço Virtual: 44395 Endereço Físico: 24427 Conteúdo: 90
+Página 152 encontrada no quadro 74 (Tabela de Páginas).
+Endereço Virtual: 39120 Endereço Físico: 19152 Conteúdo: 0
+Página 84 encontrada no quadro 115 (Tabela de Páginas).
+Endereço Virtual: 21706 Endereço Físico: 29642 Conteúdo: 21
+Page Fault! Página 27 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 191 no quadro 96.
+Endereço Virtual: 7144 Endereço Físico: 24808 Conteúdo: 0
+Endereço Virtual: 30244 Endereço Físico: 15908 Conteúdo: 0
+Page Fault! Página 14 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 135 no quadro 97.
+Endereço Virtual: 3725 Endereço Físico: 24973 Conteúdo: 0
+Page Fault! Página 213 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 149 no quadro 98.
+Endereço Virtual: 54632 Endereço Físico: 25192 Conteúdo: 0
+Page Fault! Página 119 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 16 no quadro 99.
+Endereço Virtual: 30574 Endereço Físico: 25454 Conteúdo: 29
+Page Fault! Página 33 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 179 no quadro 100.
+Endereço Virtual: 8473 Endereço Físico: 25625 Conteúdo: 0
+Página 48 encontrada no quadro 78 (Tabela de Páginas).
+Endereço Virtual: 12386 Endereço Físico: 20066 Conteúdo: 12
+Página 160 encontrada no quadro 13 (Tabela de Páginas).
+Endereço Virtual: 41114 Endereço Físico: 3482 Conteúdo: 40
+Página 226 encontrada no quadro 83 (Tabela de Páginas).
+Endereço Virtual: 57930 Endereço Físico: 21322 Conteúdo: 56
+Página 59 encontrada no quadro 23 (Tabela de Páginas).
+Endereço Virtual: 15341 Endereço Físico: 6125 Conteúdo: 0
+Página 60 encontrada no quadro 18 (Tabela de Páginas).
+Endereço Virtual: 15598 Endereço Físico: 4846 Conteúdo: 15
+Page Fault! Página 234 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 243 no quadro 101.
+Endereço Virtual: 59922 Endereço Físico: 25874 Conteúdo: 58
+Page Fault! Página 71 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 252 no quadro 102.
+Endereço Virtual: 18226 Endereço Físico: 26162 Conteúdo: 17
+Page Fault! Página 188 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 42 no quadro 103.
+Endereço Virtual: 48162 Endereço Físico: 26402 Conteúdo: 47
+Página 161 encontrada no quadro 93 (Tabela de Páginas).
+Endereço Virtual: 41250 Endereço Físico: 23842 Conteúdo: 40
+Página 5 encontrada no quadro 107 (Tabela de Páginas).
+Endereço Virtual: 1512 Endereço Físico: 27624 Conteúdo: 0
+Página 9 encontrada no quadro 31 (Tabela de Páginas).
+Endereço Virtual: 2546 Endereço Físico: 8178 Conteúdo: 2
+Página 162 encontrada no quadro 71 (Tabela de Páginas).
+Endereço Virtual: 41682 Endereço Físico: 18386 Conteúdo: 40
+Página 1 encontrada no quadro 38 (Tabela de Páginas).
+Endereço Virtual: 322 Endereço Físico: 9794 Conteúdo: 0
+Página 3 encontrada no quadro 94 (Tabela de Páginas).
+Endereço Virtual: 880 Endereço Físico: 24176 Conteúdo: 0
+Página 81 encontrada no quadro 90 (Tabela de Páginas).
+Endereço Virtual: 20891 Endereço Físico: 23195 Conteúdo: 102
+Page Fault! Página 221 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 174 no quadro 104.
+Endereço Virtual: 56604 Endereço Físico: 26652 Conteúdo: 0
+Page Fault! Página 156 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 214 no quadro 105.
+Endereço Virtual: 40166 Endereço Físico: 27110 Conteúdo: 39
+Page Fault! Página 104 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 220 no quadro 106.
+Endereço Virtual: 26791 Endereço Físico: 27303 Conteúdo: 41
+Page Fault! Página 174 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 5 no quadro 107.
+Endereço Virtual: 44560 Endereço Físico: 27408 Conteúdo: 0
+Page Fault! Página 151 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 228 no quadro 108.
+Endereço Virtual: 38698 Endereço Físico: 27690 Conteúdo: 37
+Page Fault! Página 250 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 62 no quadro 109.
+Endereço Virtual: 64127 Endereço Físico: 28031 Conteúdo: 159
+Page Fault! Página 58 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 21 no quadro 110.
+Endereço Virtual: 15028 Endereço Físico: 28340 Conteúdo: 0
+Endereço Virtual: 38669 Endereço Físico: 27661 Conteúdo: 0
+Page Fault! Página 178 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 211 no quadro 111.
+Endereço Virtual: 45637 Endereço Físico: 28485 Conteúdo: 0
+Página 168 encontrada no quadro 114 (Tabela de Páginas).
+Endereço Virtual: 43151 Endereço Físico: 29327 Conteúdo: 35
+Página 36 encontrada no quadro 28 (Tabela de Páginas).
+Endereço Virtual: 9465 Endereço Físico: 7417 Conteúdo: 0
+Endereço Virtual: 2498 Endereço Físico: 8130 Conteúdo: 2
+Page Fault! Página 54 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 22 no quadro 112.
+Endereço Virtual: 13978 Endereço Físico: 28826 Conteúdo: 13
+Página 63 encontrada no quadro 26 (Tabela de Páginas).
+Endereço Virtual: 16326 Endereço Físico: 6854 Conteúdo: 15
+Página 200 encontrada no quadro 22 (Tabela de Páginas).
+Endereço Virtual: 51442 Endereço Físico: 5874 Conteúdo: 50
+Página 136 encontrada no quadro 20 (Tabela de Páginas).
+Endereço Virtual: 34845 Endereço Físico: 5149 Conteúdo: 0
+Page Fault! Página 248 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 83 no quadro 113.
+Endereço Virtual: 63667 Endereço Físico: 29107 Conteúdo: 44
+Página 153 encontrada no quadro 15 (Tabela de Páginas).
+Endereço Virtual: 39370 Endereço Físico: 4042 Conteúdo: 38
+Page Fault! Página 217 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 168 no quadro 114.
+Endereço Virtual: 55671 Endereço Físico: 29303 Conteúdo: 93
+Página 251 encontrada no quadro 87 (Tabela de Páginas).
+Endereço Virtual: 64496 Endereço Físico: 22512 Conteúdo: 0
+Página 30 encontrada no quadro 46 (Tabela de Páginas).
+Endereço Virtual: 7767 Endereço Físico: 11863 Conteúdo: 149
+Page Fault! Página 24 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 84 no quadro 115.
+Endereço Virtual: 6283 Endereço Físico: 29579 Conteúdo: 34
+Page Fault! Página 218 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 97 no quadro 116.
+Endereço Virtual: 55884 Endereço Físico: 29772 Conteúdo: 0
+Page Fault! Página 238 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 89 no quadro 117.
+Endereço Virtual: 61103 Endereço Físico: 30127 Conteúdo: 171
+Page Fault! Página 39 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 230 no quadro 118.
+Endereço Virtual: 10184 Endereço Físico: 30408 Conteúdo: 0
+Page Fault! Página 154 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 53 no quadro 119.
+Endereço Virtual: 39543 Endereço Físico: 30583 Conteúdo: 157
+Página 37 encontrada no quadro 72 (Tabela de Páginas).
+Endereço Virtual: 9555 Endereço Físico: 18515 Conteúdo: 84
+Endereço Virtual: 13963 Endereço Físico: 28811 Conteúdo: 162
+Page Fault! Página 230 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 172 no quadro 120.
+Endereço Virtual: 58975 Endereço Físico: 30815 Conteúdo: 151
+Page Fault! Página 76 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 113 no quadro 121.
+Endereço Virtual: 19537 Endereço Físico: 31057 Conteúdo: 0
+Página 23 encontrada no quadro 27 (Tabela de Páginas).
+Endereço Virtual: 6101 Endereço Físico: 7125 Conteúdo: 0
+Página 161 encontrada no quadro 93 (Tabela de Páginas).
+Endereço Virtual: 41421 Endereço Físico: 24013 Conteúdo: 0
+Página 177 encontrada no quadro 79 (Tabela de Páginas).
+Endereço Virtual: 45502 Endereço Físico: 20414 Conteúdo: 44
+Page Fault! Página 114 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 129 no quadro 122.
+Endereço Virtual: 29328 Endereço Físico: 31376 Conteúdo: 0
+Página 31 encontrada no quadro 54 (Tabela de Páginas).
+Endereço Virtual: 8149 Endereço Físico: 14037 Conteúdo: 0
+Page Fault! Página 99 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 111 no quadro 123.
+Endereço Virtual: 25450 Endereço Físico: 31594 Conteúdo: 24
+Endereço Virtual: 58944 Endereço Físico: 30784 Conteúdo: 0
+Página 197 encontrada no quadro 67 (Tabela de Páginas).
+Endereço Virtual: 50666 Endereço Físico: 17386 Conteúdo: 49
+Página 90 encontrada no quadro 36 (Tabela de Páginas).
+Endereço Virtual: 23084 Endereço Físico: 9260 Conteúdo: 0
+Página 142 encontrada no quadro 73 (Tabela de Páginas).
+Endereço Virtual: 36468 Endereço Físico: 18804 Conteúdo: 0
+Page Fault! Página 131 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 169 no quadro 124.
+Endereço Virtual: 33645 Endereço Físico: 31853 Conteúdo: 0
+Page Fault! Página 97 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 19 no quadro 125.
+Endereço Virtual: 25002 Endereço Físico: 32170 Conteúdo: 24
+Page Fault! Página 209 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 10 no quadro 126.
+Endereço Virtual: 53715 Endereço Físico: 32467 Conteúdo: 116
+Página 235 encontrada no quadro 45 (Tabela de Páginas).
+Endereço Virtual: 60173 Endereço Físico: 11533 Conteúdo: 0
+Page Fault! Página 181 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 210 no quadro 127.
+Endereço Virtual: 46354 Endereço Físico: 32530 Conteúdo: 45
+Página 18 encontrada no quadro 57 (Tabela de Páginas).
+Endereço Virtual: 4708 Endereço Físico: 14692 Conteúdo: 0
+Página 110 encontrada no quadro 30 (Tabela de Páginas).
+Endereço Virtual: 28208 Endereço Físico: 7728 Conteúdo: 0
+Página 229 encontrada no quadro 11 (Tabela de Páginas).
+Endereço Virtual: 58844 Endereço Físico: 3036 Conteúdo: 0
+Página 86 encontrada no quadro 35 (Tabela de Páginas).
+Endereço Virtual: 22173 Endereço Físico: 9117 Conteúdo: 0
+Página 33 encontrada no quadro 100 (Tabela de Páginas).
+Endereço Virtual: 8535 Endereço Físico: 25687 Conteúdo: 85
+Page Fault! Página 165 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 70 no quadro 0.
+Endereço Virtual: 42261 Endereço Físico: 21 Conteúdo: 0
+Page Fault! Página 115 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 56 no quadro 1.
+Endereço Virtual: 29687 Endereço Físico: 503 Conteúdo: 253
+Page Fault! Página 147 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 240 no quadro 2.
+Endereço Virtual: 37799 Endereço Físico: 679 Conteúdo: 233
+Page Fault! Página 88 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 79 no quadro 3.
+Endereço Virtual: 22566 Endereço Físico: 806 Conteúdo: 22
+Página 244 encontrada no quadro 17 (Tabela de Páginas).
+Endereço Virtual: 62520 Endereço Físico: 4408 Conteúdo: 0
+Page Fault! Página 16 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 105 no quadro 4.
+Endereço Virtual: 4098 Endereço Físico: 1026 Conteúdo: 4
+Página 187 encontrada no quadro 25 (Tabela de Páginas).
+Endereço Virtual: 47999 Endereço Físico: 6527 Conteúdo: 223
+Page Fault! Página 193 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 44 no quadro 5.
+Endereço Virtual: 49660 Endereço Físico: 1532 Conteúdo: 0
+Página 144 encontrada no quadro 8 (Tabela de Páginas).
+Endereço Virtual: 37063 Endereço Físico: 2247 Conteúdo: 49
+Página 163 encontrada no quadro 92 (Tabela de Páginas).
+Endereço Virtual: 41856 Endereço Físico: 23680 Conteúdo: 0
+Page Fault! Página 21 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 198 no quadro 6.
+Endereço Virtual: 5417 Endereço Físico: 1577 Conteúdo: 0
+Página 190 encontrada no quadro 65 (Tabela de Páginas).
+Endereço Virtual: 48856 Endereço Físico: 16856 Conteúdo: 0
+Page Fault! Página 41 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 141 no quadro 7.
+Endereço Virtual: 10682 Endereço Físico: 1978 Conteúdo: 10
+Página 87 encontrada no quadro 34 (Tabela de Páginas).
+Endereço Virtual: 22370 Endereço Físico: 8802 Conteúdo: 21
+Página 247 encontrada no quadro 40 (Tabela de Páginas).
+Endereço Virtual: 63281 Endereço Físico: 10289 Conteúdo: 0
+Page Fault! Página 243 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 144 no quadro 8.
+Endereço Virtual: 62452 Endereço Físico: 2292 Conteúdo: 0
+Página 197 encontrada no quadro 67 (Tabela de Páginas).
+Endereço Virtual: 50532 Endereço Físico: 17252 Conteúdo: 0
+Page Fault! Página 35 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 232 no quadro 9.
+Endereço Virtual: 9022 Endereço Físico: 2366 Conteúdo: 8
+Page Fault! Página 231 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 92 no quadro 10.
+Endereço Virtual: 59300 Endereço Físico: 2724 Conteúdo: 0
+Página 229 encontrada no quadro 11 (Tabela de Páginas).
+Endereço Virtual: 58660 Endereço Físico: 2852 Conteúdo: 0
+Page Fault! Página 220 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 229 no quadro 11.
+Endereço Virtual: 56401 Endereço Físico: 2897 Conteúdo: 0
+Página 33 encontrada no quadro 100 (Tabela de Páginas).
+Endereço Virtual: 8518 Endereço Físico: 25670 Conteúdo: 8
+Página 246 encontrada no quadro 89 (Tabela de Páginas).
+Endereço Virtual: 63066 Endereço Físico: 22874 Conteúdo: 61
+Endereço Virtual: 63250 Endereço Físico: 10258 Conteúdo: 61
+Page Fault! Página 189 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 182 no quadro 12.
+Endereço Virtual: 48592 Endereço Físico: 3280 Conteúdo: 0
+Page Fault! Página 112 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 160 no quadro 13.
+Endereço Virtual: 28771 Endereço Físico: 3427 Conteúdo: 24
+Página 147 encontrada no quadro 2 (Tabela de Páginas).
+Endereço Virtual: 37673 Endereço Físico: 553 Conteúdo: 0
+Page Fault! Página 237 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 185 no quadro 14.
+Endereço Virtual: 60776 Endereço Físico: 3688 Conteúdo: 0
+Endereço Virtual: 56438 Endereço Físico: 2934 Conteúdo: 55
+Página 236 encontrada no quadro 50 (Tabela de Páginas).
+Endereço Virtual: 60424 Endereço Físico: 12808 Conteúdo: 0
+Página 156 encontrada no quadro 105 (Tabela de Páginas).
+Endereço Virtual: 39993 Endereço Físico: 26937 Conteúdo: 0
+Página 218 encontrada no quadro 116 (Tabela de Páginas).
+Endereço Virtual: 56004 Endereço Físico: 29892 Conteúdo: 0
+Página 230 encontrada no quadro 120 (Tabela de Páginas).
+Endereço Virtual: 59002 Endereço Físico: 30842 Conteúdo: 57
+Página 132 encontrada no quadro 91 (Tabela de Páginas).
+Endereço Virtual: 33982 Endereço Físico: 23486 Conteúdo: 33
+Página 99 encontrada no quadro 123 (Tabela de Páginas).
+Endereço Virtual: 25498 Endereço Físico: 31642 Conteúdo: 24
+Page Fault! Página 222 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 153 no quadro 15.
+Endereço Virtual: 57047 Endereço Físico: 4055 Conteúdo: 181
+Page Fault! Página 5 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 227 no quadro 16.
+Endereço Virtual: 1401 Endereço Físico: 4217 Conteúdo: 0
+Página 59 encontrada no quadro 23 (Tabela de Páginas).
+Endereço Virtual: 15130 Endereço Físico: 5914 Conteúdo: 14
+Page Fault! Página 167 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 244 no quadro 17.
+Endereço Virtual: 42960 Endereço Físico: 4560 Conteúdo: 0
+Page Fault! Página 241 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 60 no quadro 18.
+Endereço Virtual: 61827 Endereço Físico: 4739 Conteúdo: 96
+Page Fault! Página 126 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 103 no quadro 19.
+Endereço Virtual: 32442 Endereço Físico: 5050 Conteúdo: 31
+Página 251 encontrada no quadro 87 (Tabela de Páginas).
+Endereço Virtual: 64304 Endereço Físico: 22320 Conteúdo: 0
+Página 118 encontrada no quadro 62 (Tabela de Páginas).
+Endereço Virtual: 30273 Endereço Físico: 15937 Conteúdo: 0
+Page Fault! Página 148 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 136 no quadro 20.
+Endereço Virtual: 38082 Endereço Físico: 5314 Conteúdo: 37
+Página 87 encontrada no quadro 34 (Tabela de Páginas).
+Endereço Virtual: 22404 Endereço Físico: 8836 Conteúdo: 0
+Página 14 encontrada no quadro 97 (Tabela de Páginas).
+Endereço Virtual: 3808 Endereço Físico: 25056 Conteúdo: 0
+Page Fault! Página 65 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 77 no quadro 21.
+Endereço Virtual: 16883 Endereço Físico: 5619 Conteúdo: 124
+Página 90 encontrada no quadro 36 (Tabela de Páginas).
+Endereço Virtual: 23111 Endereço Físico: 9287 Conteúdo: 145
+Página 243 encontrada no quadro 8 (Tabela de Páginas).
+Endereço Virtual: 62417 Endereço Físico: 2257 Conteúdo: 0
+Página 235 encontrada no quadro 45 (Tabela de Páginas).
+Endereço Virtual: 60364 Endereço Físico: 11724 Conteúdo: 0
+Página 17 encontrada no quadro 56 (Tabela de Páginas).
+Endereço Virtual: 4542 Endereço Físico: 14526 Conteúdo: 4
+Page Fault! Página 57 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 200 no quadro 22.
+Endereço Virtual: 14829 Endereço Físico: 5869 Conteúdo: 0
+Page Fault! Página 175 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 59 no quadro 23.
+Endereço Virtual: 44964 Endereço Físico: 6052 Conteúdo: 0
+Página 132 encontrada no quadro 91 (Tabela de Páginas).
+Endereço Virtual: 33924 Endereço Físico: 23428 Conteúdo: 0
+Página 8 encontrada no quadro 77 (Tabela de Páginas).
+Endereço Virtual: 2141 Endereço Físico: 19805 Conteúdo: 0
+Página 75 encontrada no quadro 64 (Tabela de Páginas).
+Endereço Virtual: 19245 Endereço Físico: 16429 Conteúdo: 0
+Página 184 encontrada no quadro 42 (Tabela de Páginas).
+Endereço Virtual: 47168 Endereço Físico: 10816 Conteúdo: 0
+Page Fault! Página 93 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 253 no quadro 24.
+Endereço Virtual: 24048 Endereço Físico: 6384 Conteúdo: 0
+Página 3 encontrada no quadro 94 (Tabela de Páginas).
+Endereço Virtual: 1022 Endereço Físico: 24318 Conteúdo: 0
+Endereço Virtual: 23075 Endereço Físico: 9251 Conteúdo: 136
+Página 97 encontrada no quadro 125 (Tabela de Páginas).
+Endereço Virtual: 24888 Endereço Físico: 32056 Conteúdo: 0
+Página 192 encontrada no quadro 66 (Tabela de Páginas).
+Endereço Virtual: 49247 Endereço Físico: 16991 Conteúdo: 23
+Page Fault! Página 19 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 187 no quadro 25.
+Endereço Virtual: 4900 Endereço Físico: 6436 Conteúdo: 0
+Página 88 encontrada no quadro 3 (Tabela de Páginas).
+Endereço Virtual: 22656 Endereço Físico: 896 Conteúdo: 0
+Page Fault! Página 133 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 63 no quadro 26.
+Endereço Virtual: 34117 Endereço Físico: 6725 Conteúdo: 0
+Página 217 encontrada no quadro 114 (Tabela de Páginas).
+Endereço Virtual: 55555 Endereço Físico: 29187 Conteúdo: 64
+Page Fault! Página 191 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 23 no quadro 27.
+Endereço Virtual: 48947 Endereço Físico: 6963 Conteúdo: 204
+Page Fault! Página 232 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 36 no quadro 28.
+Endereço Virtual: 59533 Endereço Físico: 7309 Conteúdo: 0
+Page Fault! Página 83 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 138 no quadro 29.
+Endereço Virtual: 21312 Endereço Físico: 7488 Conteúdo: 0
+Endereço Virtual: 21415 Endereço Físico: 7591 Conteúdo: 233
+Endereço Virtual: 813 Endereço Físico: 24109 Conteúdo: 0
+Endereço Virtual: 19419 Endereço Físico: 16603 Conteúdo: 246
+Página 7 encontrada no quadro 39 (Tabela de Páginas).
+Endereço Virtual: 1999 Endereço Físico: 10191 Conteúdo: 243
+Page Fault! Página 78 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 110 no quadro 30.
+Endereço Virtual: 20155 Endereço Físico: 7867 Conteúdo: 174
+Page Fault! Página 84 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 9 no quadro 31.
+Endereço Virtual: 21521 Endereço Físico: 7953 Conteúdo: 0
+Page Fault! Página 53 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 186 no quadro 32.
+Endereço Virtual: 13670 Endereço Físico: 8294 Conteúdo: 13
+Página 75 encontrada no quadro 64 (Tabela de Páginas).
+Endereço Virtual: 19289 Endereço Físico: 16473 Conteúdo: 0
+Page Fault! Página 228 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 183 no quadro 33.
+Endereço Virtual: 58483 Endereço Físico: 8563 Conteúdo: 28
+Página 161 encontrada no quadro 93 (Tabela de Páginas).
+Endereço Virtual: 41318 Endereço Físico: 23910 Conteúdo: 40
+Page Fault! Página 63 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 87 no quadro 34.
+Endereço Virtual: 16151 Endereço Físico: 8727 Conteúdo: 197
+Endereço Virtual: 13611 Endereço Físico: 8235 Conteúdo: 74
+Endereço Virtual: 21514 Endereço Físico: 7946 Conteúdo: 21
+Page Fault! Página 52 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 86 no quadro 35.
+Endereço Virtual: 13499 Endereço Físico: 9147 Conteúdo: 46
+Página 178 encontrada no quadro 111 (Tabela de Páginas).
+Endereço Virtual: 45583 Endereço Físico: 28431 Conteúdo: 131
+Endereço Virtual: 49013 Endereço Físico: 7029 Conteúdo: 0
+Page Fault! Página 253 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 90 no quadro 36.
+Endereço Virtual: 64843 Endereço Físico: 9291 Conteúdo: 82
+Página 247 encontrada no quadro 40 (Tabela de Páginas).
+Endereço Virtual: 63485 Endereço Físico: 10493 Conteúdo: 0
+Página 151 encontrada no quadro 108 (Tabela de Páginas).
+Endereço Virtual: 38697 Endereço Físico: 27689 Conteúdo: 0
+Página 231 encontrada no quadro 10 (Tabela de Páginas).
+Endereço Virtual: 59188 Endereço Físico: 2612 Conteúdo: 0
+Page Fault! Página 96 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 80 no quadro 37.
+Endereço Virtual: 24593 Endereço Físico: 9489 Conteúdo: 0
+Page Fault! Página 225 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 1 no quadro 38.
+Endereço Virtual: 57641 Endereço Físico: 9769 Conteúdo: 0
+Página 142 encontrada no quadro 73 (Tabela de Páginas).
+Endereço Virtual: 36524 Endereço Físico: 18860 Conteúdo: 0
+Página 222 encontrada no quadro 15 (Tabela de Páginas).
+Endereço Virtual: 56980 Endereço Físico: 3988 Conteúdo: 0
+Página 143 encontrada no quadro 80 (Tabela de Páginas).
+Endereço Virtual: 36810 Endereço Físico: 20682 Conteúdo: 35
+Page Fault! Página 23 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 7 no quadro 39.
+Endereço Virtual: 6096 Endereço Físico: 10192 Conteúdo: 0
+Página 43 encontrada no quadro 53 (Tabela de Páginas).
+Endereço Virtual: 11070 Endereço Físico: 13630 Conteúdo: 10
+Página 234 encontrada no quadro 101 (Tabela de Páginas).
+Endereço Virtual: 60124 Endereço Físico: 26076 Conteúdo: 0
+Page Fault! Página 146 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 247 no quadro 40.
+Endereço Virtual: 37576 Endereço Físico: 10440 Conteúdo: 0
+Página 58 encontrada no quadro 110 (Tabela de Páginas).
+Endereço Virtual: 15096 Endereço Físico: 28408 Conteúdo: 0
+Page Fault! Página 176 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 49 no quadro 41.
+Endereço Virtual: 45247 Endereço Físico: 10687 Conteúdo: 47
+Página 128 encontrada no quadro 44 (Tabela de Páginas).
+Endereço Virtual: 32783 Endereço Físico: 11279 Conteúdo: 3
+Página 228 encontrada no quadro 33 (Tabela de Páginas).
+Endereço Virtual: 58390 Endereço Físico: 8470 Conteúdo: 57
+Página 237 encontrada no quadro 14 (Tabela de Páginas).
+Endereço Virtual: 60873 Endereço Físico: 3785 Conteúdo: 0
+Page Fault! Página 92 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 184 no quadro 42.
+Endereço Virtual: 23719 Endereço Físico: 10919 Conteúdo: 41
+Page Fault! Página 95 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 171 no quadro 43.
+Endereço Virtual: 24385 Endereço Físico: 11073 Conteúdo: 0
+Page Fault! Página 87 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 128 no quadro 44.
+Endereço Virtual: 22307 Endereço Físico: 11299 Conteúdo: 200
+Page Fault! Página 67 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 235 no quadro 45.
+Endereço Virtual: 17375 Endereço Físico: 11743 Conteúdo: 247
+Page Fault! Página 62 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 30 no quadro 46.
+Endereço Virtual: 15990 Endereço Físico: 11894 Conteúdo: 15
+Page Fault! Página 80 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 216 no quadro 47.
+Endereço Virtual: 20526 Endereço Físico: 12078 Conteúdo: 20
+Page Fault! Página 101 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 12 no quadro 48.
+Endereço Virtual: 25904 Endereço Físico: 12336 Conteúdo: 0
+Page Fault! Página 164 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 109 no quadro 49.
+Endereço Virtual: 42224 Endereço Físico: 12784 Conteúdo: 0
+Page Fault! Página 36 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 236 no quadro 50.
+Endereço Virtual: 9311 Endereço Físico: 12895 Conteúdo: 23
+Page Fault! Página 30 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 0 no quadro 51.
+Endereço Virtual: 7862 Endereço Físico: 13238 Conteúdo: 7
+Página 14 encontrada no quadro 97 (Tabela de Páginas).
+Endereço Virtual: 3835 Endereço Físico: 25083 Conteúdo: 190
+Página 119 encontrada no quadro 99 (Tabela de Páginas).
+Endereço Virtual: 30535 Endereço Físico: 25415 Conteúdo: 209
+Page Fault! Página 254 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 50 no quadro 52.
+Endereço Virtual: 65179 Endereço Físico: 13467 Conteúdo: 166
+Página 224 encontrada no quadro 85 (Tabela de Páginas).
+Endereço Virtual: 57387 Endereço Físico: 21803 Conteúdo: 10
+Página 248 encontrada no quadro 113 (Tabela de Páginas).
+Endereço Virtual: 63579 Endereço Físico: 29019 Conteúdo: 22
+Página 19 encontrada no quadro 25 (Tabela de Páginas).
+Endereço Virtual: 4946 Endereço Físico: 6482 Conteúdo: 4
+Página 35 encontrada no quadro 9 (Tabela de Páginas).
+Endereço Virtual: 9037 Endereço Físico: 2381 Conteúdo: 0
+Página 238 encontrada no quadro 117 (Tabela de Páginas).
+Endereço Virtual: 61033 Endereço Físico: 30057 Conteúdo: 0
+Page Fault! Página 216 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 43 no quadro 53.
+Endereço Virtual: 55543 Endereço Físico: 13815 Conteúdo: 61
+Página 196 encontrada no quadro 75 (Tabela de Páginas).
+Endereço Virtual: 50361 Endereço Físico: 19385 Conteúdo: 0
+Page Fault! Página 25 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 31 no quadro 54.
+Endereço Virtual: 6480 Endereço Físico: 13904 Conteúdo: 0
+Página 54 encontrada no quadro 112 (Tabela de Páginas).
+Endereço Virtual: 14042 Endereço Físico: 28890 Conteúdo: 13
+Página 84 encontrada no quadro 31 (Tabela de Páginas).
+Endereço Virtual: 21531 Endereço Físico: 7963 Conteúdo: 6
+Page Fault! Página 153 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 20 no quadro 55.
+Endereço Virtual: 39195 Endereço Físico: 14107 Conteúdo: 70
+Página 146 encontrada no quadro 40 (Tabela de Páginas).
+Endereço Virtual: 37511 Endereço Físico: 10375 Conteúdo: 161
+Página 92 encontrada no quadro 42 (Tabela de Páginas).
+Endereço Virtual: 23696 Endereço Físico: 10896 Conteúdo: 0
+Page Fault! Página 107 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 17 no quadro 56.
+Endereço Virtual: 27440 Endereço Físico: 14384 Conteúdo: 0
+Page Fault! Página 110 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 18 no quadro 57.
+Endereço Virtual: 28201 Endereço Físico: 14633 Conteúdo: 0
+Page Fault! Página 90 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 94 no quadro 58.
+Endereço Virtual: 23072 Endereço Físico: 14880 Conteúdo: 0
+Página 30 encontrada no quadro 51 (Tabela de Páginas).
+Endereço Virtual: 7814 Endereço Físico: 13190 Conteúdo: 7
+Endereço Virtual: 6552 Endereço Físico: 13976 Conteúdo: 0
+Page Fault! Página 170 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 91 no quadro 59.
+Endereço Virtual: 43637 Endereço Físico: 15221 Conteúdo: 0
+Page Fault! Página 137 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 199 no quadro 60.
+Endereço Virtual: 35113 Endereço Físico: 15401 Conteúdo: 0
+Page Fault! Página 136 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 155 no quadro 61.
+Endereço Virtual: 34890 Endereço Físico: 15690 Conteúdo: 34
+Página 239 encontrada no quadro 86 (Tabela de Páginas).
+Endereço Virtual: 61297 Endereço Físico: 22129 Conteúdo: 0
+Página 178 encontrada no quadro 111 (Tabela de Páginas).
+Endereço Virtual: 45633 Endereço Físico: 28481 Conteúdo: 0
+Endereço Virtual: 61431 Endereço Físico: 22263 Conteúdo: 253
+Page Fault! Página 179 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 118 no quadro 62.
+Endereço Virtual: 46032 Endereço Físico: 16080 Conteúdo: 0
+Page Fault! Página 73 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 106 no quadro 63.
+Endereço Virtual: 18774 Endereço Físico: 16214 Conteúdo: 18
+Página 246 encontrada no quadro 89 (Tabela de Páginas).
+Endereço Virtual: 62991 Endereço Físico: 22799 Conteúdo: 131
+Page Fault! Página 109 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 75 no quadro 64.
+Endereço Virtual: 28059 Endereço Físico: 16539 Conteúdo: 102
+Endereço Virtual: 35229 Endereço Físico: 15517 Conteúdo: 0
+Page Fault! Página 200 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 190 no quadro 65.
+Endereço Virtual: 51230 Endereço Físico: 16670 Conteúdo: 50
+Page Fault! Página 56 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 192 no quadro 66.
+Endereço Virtual: 14405 Endereço Físico: 16965 Conteúdo: 0
+Page Fault! Página 204 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 197 no quadro 67.
+Endereço Virtual: 52242 Endereço Físico: 17170 Conteúdo: 51
+Page Fault! Página 168 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 202 no quadro 68.
+Endereço Virtual: 43153 Endereço Físico: 17553 Conteúdo: 0
+Page Fault! Página 10 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 195 no quadro 69.
+Endereço Virtual: 2709 Endereço Físico: 17813 Conteúdo: 0
+Page Fault! Página 187 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 212 no quadro 70.
+Endereço Virtual: 47963 Endereço Físico: 18011 Conteúdo: 214
+Page Fault! Página 144 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 162 no quadro 71.
+Endereço Virtual: 36943 Endereço Físico: 18255 Conteúdo: 19
+Page Fault! Página 211 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 37 no quadro 72.
+Endereço Virtual: 54066 Endereço Físico: 18482 Conteúdo: 52
+Página 39 encontrada no quadro 118 (Tabela de Páginas).
+Endereço Virtual: 10054 Endereço Físico: 30278 Conteúdo: 9
+Endereço Virtual: 43051 Endereço Físico: 17451 Conteúdo: 10
+Page Fault! Página 45 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 142 no quadro 73.
+Endereço Virtual: 11525 Endereço Físico: 18693 Conteúdo: 0
+Page Fault! Página 69 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 152 no quadro 74.
+Endereço Virtual: 17684 Endereço Físico: 18964 Conteúdo: 0
+Page Fault! Página 162 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 196 no quadro 75.
+Endereço Virtual: 41681 Endereço Físico: 19409 Conteúdo: 0
+Page Fault! Página 108 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 117 no quadro 76.
+Endereço Virtual: 27883 Endereço Físico: 19691 Conteúdo: 58
+Página 222 encontrada no quadro 15 (Tabela de Páginas).
+Endereço Virtual: 56909 Endereço Físico: 3917 Conteúdo: 0
+Página 178 encontrada no quadro 111 (Tabela de Páginas).
+Endereço Virtual: 45772 Endereço Físico: 28620 Conteúdo: 0
+Página 107 encontrada no quadro 56 (Tabela de Páginas).
+Endereço Virtual: 27496 Endereço Físico: 14440 Conteúdo: 0
+Page Fault! Página 182 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 8 no quadro 77.
+Endereço Virtual: 46842 Endereço Físico: 19962 Conteúdo: 45
+Página 151 encontrada no quadro 108 (Tabela de Páginas).
+Endereço Virtual: 38734 Endereço Físico: 27726 Conteúdo: 37
+Page Fault! Página 113 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 48 no quadro 78.
+Endereço Virtual: 28972 Endereço Físico: 20012 Conteúdo: 0
+Page Fault! Página 233 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 177 no quadro 79.
+Endereço Virtual: 59684 Endereço Físico: 20260 Conteúdo: 0
+Page Fault! Página 44 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 143 no quadro 80.
+Endereço Virtual: 11384 Endereço Físico: 20600 Conteúdo: 0
+Page Fault! Página 82 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 46 no quadro 81.
+Endereço Virtual: 21018 Endereço Físico: 20762 Conteúdo: 20
+Page Fault! Página 8 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 201 no quadro 82.
+Endereço Virtual: 2192 Endereço Físico: 21136 Conteúdo: 0
+Página 71 encontrada no quadro 102 (Tabela de Páginas).
+Endereço Virtual: 18384 Endereço Físico: 26320 Conteúdo: 0
+Página 52 encontrada no quadro 35 (Tabela de Páginas).
+Endereço Virtual: 13464 Endereço Físico: 9112 Conteúdo: 0
+Page Fault! Página 121 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 226 no quadro 83.
+Endereço Virtual: 31018 Endereço Físico: 21290 Conteúdo: 30
+Page Fault! Página 245 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 40 no quadro 84.
+Endereço Virtual: 62958 Endereço Físico: 21742 Conteúdo: 61
+Página 119 encontrada no quadro 99 (Tabela de Páginas).
+Endereço Virtual: 30611 Endereço Físico: 25491 Conteúdo: 228
+Page Fault! Página 7 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 224 no quadro 85.
+Endereço Virtual: 1913 Endereço Físico: 21881 Conteúdo: 0
+Página 73 encontrada no quadro 63 (Tabela de Páginas).
+Endereço Virtual: 18904 Endereço Físico: 16344 Conteúdo: 0
+Página 104 encontrada no quadro 106 (Tabela de Páginas).
+Endereço Virtual: 26773 Endereço Físico: 27285 Conteúdo: 0
+Página 216 encontrada no quadro 53 (Tabela de Páginas).
+Endereço Virtual: 55491 Endereço Físico: 13763 Conteúdo: 48
+Página 85 encontrada no quadro 88 (Tabela de Páginas).
+Endereço Virtual: 21899 Endereço Físico: 22667 Conteúdo: 98
+Página 251 encontrada no quadro 87 (Tabela de Páginas).
+Endereço Virtual: 64413 Endereço Físico: 22429 Conteúdo: 0
+Page Fault! Página 184 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 239 no quadro 86.
+Endereço Virtual: 47134 Endereço Físico: 22046 Conteúdo: 46
+Página 90 encontrada no quadro 58 (Tabela de Páginas).
+Endereço Virtual: 23172 Endereço Físico: 14980 Conteúdo: 0
+Page Fault! Página 28 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 251 no quadro 87.
+Endereço Virtual: 7262 Endereço Físico: 22366 Conteúdo: 7
+Page Fault! Página 49 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 85 no quadro 88.
+Endereço Virtual: 12705 Endereço Físico: 22689 Conteúdo: 0
+Page Fault! Página 29 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 246 no quadro 89.
+Endereço Virtual: 7522 Endereço Físico: 22882 Conteúdo: 7
+Page Fault! Página 229 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 81 no quadro 90.
+Endereço Virtual: 58815 Endereço Físico: 23231 Conteúdo: 111
+Página 136 encontrada no quadro 61 (Tabela de Páginas).
+Endereço Virtual: 34916 Endereço Físico: 15716 Conteúdo: 0
+Página 14 encontrada no quadro 97 (Tabela de Páginas).
+Endereço Virtual: 3802 Endereço Físico: 25050 Conteúdo: 3
+Page Fault! Página 226 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 132 no quadro 91.
+Endereço Virtual: 58008 Endereço Físico: 23448 Conteúdo: 0
+Page Fault! Página 4 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 163 no quadro 92.
+Endereço Virtual: 1239 Endereço Físico: 23767 Conteúdo: 53
+Page Fault! Página 249 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 161 no quadro 93.
+Endereço Virtual: 63947 Endereço Físico: 24011 Conteúdo: 114
+Page Fault! Página 1 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 3 no quadro 94.
+Endereço Virtual: 381 Endereço Físico: 24189 Conteúdo: 0
+Página 237 encontrada no quadro 14 (Tabela de Páginas).
+Endereço Virtual: 60734 Endereço Físico: 3646 Conteúdo: 59
+Page Fault! Página 190 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 173 no quadro 95.
+Endereço Virtual: 48769 Endereço Físico: 24449 Conteúdo: 0
+Page Fault! Página 163 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 27 no quadro 96.
+Endereço Virtual: 41938 Endereço Físico: 24786 Conteúdo: 40
+Página 148 encontrada no quadro 20 (Tabela de Páginas).
+Endereço Virtual: 38025 Endereço Físico: 5257 Conteúdo: 0
+Page Fault! Página 215 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 14 no quadro 97.
+Endereço Virtual: 55099 Endereço Físico: 24891 Conteúdo: 206
+Página 221 encontrada no quadro 104 (Tabela de Páginas).
+Endereço Virtual: 56691 Endereço Físico: 26739 Conteúdo: 92
+Página 154 encontrada no quadro 119 (Tabela de Páginas).
+Endereço Virtual: 39530 Endereço Físico: 30570 Conteúdo: 38
+Página 230 encontrada no quadro 120 (Tabela de Páginas).
+Endereço Virtual: 59003 Endereço Físico: 30843 Conteúdo: 158
+Página 23 encontrada no quadro 39 (Tabela de Páginas).
+Endereço Virtual: 6029 Endereço Físico: 10125 Conteúdo: 0
+Page Fault! Página 81 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 213 no quadro 98.
+Endereço Virtual: 20920 Endereço Físico: 25272 Conteúdo: 0
+Page Fault! Página 31 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 119 no quadro 99.
+Endereço Virtual: 8077 Endereço Físico: 25485 Conteúdo: 0
+Page Fault! Página 166 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 33 no quadro 100.
+Endereço Virtual: 42633 Endereço Físico: 25737 Conteúdo: 0
+Page Fault! Página 68 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 234 no quadro 101.
+Endereço Virtual: 17443 Endereço Físico: 25891 Conteúdo: 8
+Página 209 encontrada no quadro 126 (Tabela de Páginas).
+Endereço Virtual: 53570 Endereço Físico: 32322 Conteúdo: 52
+Page Fault! Página 89 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 71 no quadro 102.
+Endereço Virtual: 22833 Endereço Físico: 26161 Conteúdo: 0
+Page Fault! Página 14 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 188 no quadro 103.
+Endereço Virtual: 3782 Endereço Físico: 26566 Conteúdo: 3
+Page Fault! Página 186 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 221 no quadro 104.
+Endereço Virtual: 47758 Endereço Físico: 26766 Conteúdo: 46
+Page Fault! Página 86 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 156 no quadro 105.
+Endereço Virtual: 22136 Endereço Físico: 27000 Conteúdo: 0
+Página 87 encontrada no quadro 44 (Tabela de Páginas).
+Endereço Virtual: 22427 Endereço Físico: 11419 Conteúdo: 230
+Página 93 encontrada no quadro 24 (Tabela de Páginas).
+Endereço Virtual: 23867 Endereço Físico: 6203 Conteúdo: 78
+Page Fault! Página 234 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 104 no quadro 106.
+Endereço Virtual: 59968 Endereço Físico: 27200 Conteúdo: 0
+Page Fault! Página 242 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 174 no quadro 107.
+Endereço Virtual: 62166 Endereço Físico: 27606 Conteúdo: 60
+Page Fault! Página 27 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 151 no quadro 108.
+Endereço Virtual: 6972 Endereço Físico: 27708 Conteúdo: 0
+Página 248 encontrada no quadro 113 (Tabela de Páginas).
+Endereço Virtual: 63684 Endereço Físico: 29124 Conteúdo: 0
+Página 181 encontrada no quadro 127 (Tabela de Páginas).
+Endereço Virtual: 46388 Endereço Físico: 32564 Conteúdo: 0
+Página 163 encontrada no quadro 96 (Tabela de Páginas).
+Endereço Virtual: 41942 Endereço Físico: 24790 Conteúdo: 40
+Page Fault! Página 142 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 250 no quadro 109.
+Endereço Virtual: 36524 Endereço Físico: 28076 Conteúdo: 0
+Página 36 encontrada no quadro 50 (Tabela de Páginas).
+Endereço Virtual: 9323 Endereço Físico: 12907 Conteúdo: 26
+Página 121 encontrada no quadro 83 (Tabela de Páginas).
+Endereço Virtual: 31114 Endereço Físico: 21386 Conteúdo: 30
+Endereço Virtual: 22345 Endereço Físico: 11337 Conteúdo: 0
+Endereço Virtual: 46463 Endereço Físico: 32639 Conteúdo: 95
+Page Fault! Página 213 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 58 no quadro 110.
+Endereço Virtual: 54671 Endereço Físico: 28303 Conteúdo: 99
+Página 35 encontrada no quadro 9 (Tabela de Páginas).
+Endereço Virtual: 9214 Endereço Físico: 2558 Conteúdo: 8
+Página 28 encontrada no quadro 87 (Tabela de Páginas).
+Endereço Virtual: 7257 Endereço Físico: 22361 Conteúdo: 0
+Page Fault! Página 129 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 178 no quadro 111.
+Endereço Virtual: 33150 Endereço Físico: 28542 Conteúdo: 32
+Página 162 encontrada no quadro 75 (Tabela de Páginas).
+Endereço Virtual: 41565 Endereço Físico: 19293 Conteúdo: 0
+Page Fault! Página 102 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 54 no quadro 112.
+Endereço Virtual: 26214 Endereço Físico: 28774 Conteúdo: 25
+Página 14 encontrada no quadro 103 (Tabela de Páginas).
+Endereço Virtual: 3595 Endereço Físico: 26379 Conteúdo: 130
+Page Fault! Página 70 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 248 no quadro 113.
+Endereço Virtual: 17932 Endereço Físico: 28940 Conteúdo: 0
+Page Fault! Página 135 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 217 no quadro 114.
+Endereço Virtual: 34660 Endereço Físico: 29284 Conteúdo: 0
+Page Fault! Página 202 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 24 no quadro 115.
+Endereço Virtual: 51961 Endereço Físico: 29689 Conteúdo: 0
+Página 229 encontrada no quadro 90 (Tabela de Páginas).
+Endereço Virtual: 58634 Endereço Físico: 23050 Conteúdo: 57
+Página 226 encontrada no quadro 91 (Tabela de Páginas).
+Endereço Virtual: 57990 Endereço Físico: 23430 Conteúdo: 56
+Página 112 encontrada no quadro 13 (Tabela de Páginas).
+Endereço Virtual: 28848 Endereço Físico: 3504 Conteúdo: 0
+Page Fault! Página 195 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 218 no quadro 116.
+Endereço Virtual: 49920 Endereço Físico: 29696 Conteúdo: 0
+Page Fault! Página 71 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 238 no quadro 117.
+Endereço Virtual: 18351 Endereço Físico: 30127 Conteúdo: 235
+Página 209 encontrada no quadro 126 (Tabela de Páginas).
+Endereço Virtual: 53669 Endereço Físico: 32421 Conteúdo: 0
+Page Fault! Página 132 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 39 no quadro 118.
+Endereço Virtual: 33996 Endereço Físico: 30412 Conteúdo: 0
+Page Fault! Página 26 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 154 no quadro 119.
+Endereço Virtual: 6741 Endereço Físico: 30549 Conteúdo: 0
+Page Fault! Página 250 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 230 no quadro 120.
+Endereço Virtual: 64098 Endereço Físico: 30818 Conteúdo: 62
+Page Fault! Página 2 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 76 no quadro 121.
+Endereço Virtual: 606 Endereço Físico: 31070 Conteúdo: 0
+Page Fault! Página 106 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 114 no quadro 122.
+Endereço Virtual: 27383 Endereço Físico: 31479 Conteúdo: 189
+Page Fault! Página 246 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 99 no quadro 123.
+Endereço Virtual: 63140 Endereço Físico: 31652 Conteúdo: 0
+Page Fault! Página 125 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 131 no quadro 124.
+Endereço Virtual: 32228 Endereço Físico: 31972 Conteúdo: 0
+Page Fault! Página 247 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 97 no quadro 125.
+Endereço Virtual: 63437 Endereço Físico: 32205 Conteúdo: 0
+Página 113 encontrada no quadro 78 (Tabela de Páginas).
+Endereço Virtual: 29085 Endereço Físico: 20125 Conteúdo: 0
+Página 254 encontrada no quadro 52 (Tabela de Páginas).
+Endereço Virtual: 65080 Endereço Físico: 13368 Conteúdo: 0
+Page Fault! Página 151 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 209 no quadro 126.
+Endereço Virtual: 38753 Endereço Físico: 32353 Conteúdo: 0
+Página 62 encontrada no quadro 46 (Tabela de Páginas).
+Endereço Virtual: 16041 Endereço Físico: 11945 Conteúdo: 0
+Página 35 encontrada no quadro 9 (Tabela de Páginas).
+Endereço Virtual: 9041 Endereço Físico: 2385 Conteúdo: 0
+Página 164 encontrada no quadro 49 (Tabela de Páginas).
+Endereço Virtual: 42090 Endereço Físico: 12650 Conteúdo: 41
+Página 181 encontrada no quadro 127 (Tabela de Páginas).
+Endereço Virtual: 46388 Endereço Físico: 32564 Conteúdo: 0
+Page Fault! Página 248 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 181 no quadro 127.
+Endereço Virtual: 63650 Endereço Físico: 32674 Conteúdo: 62
+Page Fault! Página 143 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 165 no quadro 0.
+Endereço Virtual: 36636 Endereço Físico: 28 Conteúdo: 0
+Page Fault! Página 85 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 115 no quadro 1.
+Endereço Virtual: 21947 Endereço Físico: 443 Conteúdo: 110
+Page Fault! Página 77 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 147 no quadro 2.
+Endereço Virtual: 19833 Endereço Físico: 633 Conteúdo: 0
+Página 142 encontrada no quadro 109 (Tabela de Páginas).
+Endereço Virtual: 36464 Endereço Físico: 28016 Conteúdo: 0
+Page Fault! Página 33 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 88 no quadro 3.
+Endereço Virtual: 8541 Endereço Físico: 861 Conteúdo: 0
+Página 49 encontrada no quadro 88 (Tabela de Páginas).
+Endereço Virtual: 12712 Endereço Físico: 22696 Conteúdo: 0
+Página 191 encontrada no quadro 27 (Tabela de Páginas).
+Endereço Virtual: 48955 Endereço Físico: 6971 Conteúdo: 206
+Página 153 encontrada no quadro 55 (Tabela de Páginas).
+Endereço Virtual: 39206 Endereço Físico: 14118 Conteúdo: 38
+Page Fault! Página 60 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 16 no quadro 4.
+Endereço Virtual: 15578 Endereço Físico: 1242 Conteúdo: 15
+Page Fault! Página 192 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 193 no quadro 5.
+Endereço Virtual: 49205 Endereço Físico: 1333 Conteúdo: 0
+Página 30 encontrada no quadro 51 (Tabela de Páginas).
+Endereço Virtual: 7731 Endereço Físico: 13107 Conteúdo: 140
+Página 168 encontrada no quadro 68 (Tabela de Páginas).
+Endereço Virtual: 43046 Endereço Físico: 17446 Conteúdo: 42
+Page Fault! Página 236 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 21 no quadro 6.
+Endereço Virtual: 60498 Endereço Físico: 1618 Conteúdo: 59
+Página 36 encontrada no quadro 50 (Tabela de Páginas).
+Endereço Virtual: 9237 Endereço Físico: 12821 Conteúdo: 0
+Página 186 encontrada no quadro 104 (Tabela de Páginas).
+Endereço Virtual: 47706 Endereço Físico: 26714 Conteúdo: 46
+Page Fault! Página 171 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 41 no quadro 7.
+Endereço Virtual: 43973 Endereço Físico: 1989 Conteúdo: 0
+Página 164 encontrada no quadro 49 (Tabela de Páginas).
+Endereço Virtual: 42008 Endereço Físico: 12568 Conteúdo: 0
+Página 107 encontrada no quadro 56 (Tabela de Páginas).
+Endereço Virtual: 27460 Endereço Físico: 14404 Conteúdo: 0
+Page Fault! Página 97 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 243 no quadro 8.
+Endereço Virtual: 24999 Endereço Físico: 2215 Conteúdo: 105
+Página 202 encontrada no quadro 115 (Tabela de Páginas).
+Endereço Virtual: 51933 Endereço Físico: 29661 Conteúdo: 0
+Página 133 encontrada no quadro 26 (Tabela de Páginas).
+Endereço Virtual: 34070 Endereço Físico: 6678 Conteúdo: 33
+Página 254 encontrada no quadro 52 (Tabela de Páginas).
+Endereço Virtual: 65155 Endereço Físico: 13443 Conteúdo: 160
+Página 234 encontrada no quadro 106 (Tabela de Páginas).
+Endereço Virtual: 59955 Endereço Físico: 27187 Conteúdo: 140
+Endereço Virtual: 9277 Endereço Físico: 12861 Conteúdo: 0
+Page Fault! Página 79 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 35 no quadro 9.
+Endereço Virtual: 20420 Endereço Físico: 2500 Conteúdo: 0
+Página 175 encontrada no quadro 23 (Tabela de Páginas).
+Endereço Virtual: 44860 Endereço Físico: 5948 Conteúdo: 0
+Page Fault! Página 199 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 231 no quadro 10.
+Endereço Virtual: 50992 Endereço Físico: 2608 Conteúdo: 0
+Page Fault! Página 41 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 220 no quadro 11.
+Endereço Virtual: 10583 Endereço Físico: 2903 Conteúdo: 85
+Página 225 encontrada no quadro 38 (Tabela de Páginas).
+Endereço Virtual: 57751 Endereço Físico: 9879 Conteúdo: 101
+Página 90 encontrada no quadro 58 (Tabela de Páginas).
+Endereço Virtual: 23195 Endereço Físico: 15003 Conteúdo: 166
+Página 106 encontrada no quadro 122 (Tabela de Páginas).
+Endereço Virtual: 27227 Endereço Físico: 31323 Conteúdo: 150
+Página 167 encontrada no quadro 17 (Tabela de Páginas).
+Endereço Virtual: 42816 Endereço Físico: 4416 Conteúdo: 0
+Page Fault! Página 227 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 189 no quadro 12.
+Endereço Virtual: 58219 Endereço Físico: 3179 Conteúdo: 218
+Página 146 encontrada no quadro 40 (Tabela de Páginas).
+Endereço Virtual: 37606 Endereço Físico: 10470 Conteúdo: 36
+Página 71 encontrada no quadro 117 (Tabela de Páginas).
+Endereço Virtual: 18426 Endereço Físico: 30202 Conteúdo: 17
+Página 82 encontrada no quadro 81 (Tabela de Páginas).
+Endereço Virtual: 21238 Endereço Físico: 20982 Conteúdo: 20
+Page Fault! Página 46 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 112 no quadro 13.
+Endereço Virtual: 11983 Endereço Físico: 3535 Conteúdo: 179
+Page Fault! Página 189 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 237 no quadro 14.
+Endereço Virtual: 48394 Endereço Físico: 3594 Conteúdo: 47
+Page Fault! Página 43 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 222 no quadro 15.
+Endereço Virtual: 11036 Endereço Físico: 3868 Conteúdo: 0
+Page Fault! Página 119 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 5 no quadro 16.
+Endereço Virtual: 30557 Endereço Físico: 4189 Conteúdo: 0
+Page Fault! Página 91 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 167 no quadro 17.
+Endereço Virtual: 23453 Endereço Físico: 4509 Conteúdo: 0
+Page Fault! Página 194 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 241 no quadro 18.
+Endereço Virtual: 49847 Endereço Físico: 4791 Conteúdo: 173
+Page Fault! Página 117 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 126 no quadro 19.
+Endereço Virtual: 30032 Endereço Físico: 4944 Conteúdo: 0
+Página 187 encontrada no quadro 70 (Tabela de Páginas).
+Endereço Virtual: 48065 Endereço Físico: 18113 Conteúdo: 0
+Página 27 encontrada no quadro 108 (Tabela de Páginas).
+Endereço Virtual: 6957 Endereço Físico: 27693 Conteúdo: 0
+Página 8 encontrada no quadro 82 (Tabela de Páginas).
+Endereço Virtual: 2301 Endereço Físico: 21245 Conteúdo: 0
+Página 30 encontrada no quadro 51 (Tabela de Páginas).
+Endereço Virtual: 7736 Endereço Físico: 13112 Conteúdo: 0
+Page Fault! Página 122 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 148 no quadro 20.
+Endereço Virtual: 31260 Endereço Físico: 5148 Conteúdo: 0
+Page Fault! Página 66 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 65 no quadro 21.
+Endereço Virtual: 17071 Endereço Físico: 5551 Conteúdo: 171
+Page Fault! Página 34 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 57 no quadro 22.
+Endereço Virtual: 8940 Endereço Físico: 5868 Conteúdo: 0
+Page Fault! Página 38 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 175 no quadro 23.
+Endereço Virtual: 9929 Endereço Físico: 6089 Conteúdo: 0
+Page Fault! Página 177 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 93 no quadro 24.
+Endereço Virtual: 45563 Endereço Físico: 6395 Conteúdo: 126
+Page Fault! Página 47 não encontrada na tabela.
+Substituindo com LRU...
+Substituindo página 19 no quadro 25.
+Endereço Virtual: 12107 Endereço Físico: 6475 Conteúdo: 210
+Taxa de Page Faults: 53.80%
+Taxa de TLB Hits: 5.40%
