@@ -13,7 +13,7 @@
 #define OFFSET_MASK 0xFF     // Máscara para extrair o offset (8 bits)
 #define OFFSET_BITS 8        // Número de bits do offset
 
-// Estrutura para entrada da TLB com um flag de validade
+// Estrutura para entrada da TLB com flag de validade
 typedef struct {
     int logical;
     int physical;
@@ -21,11 +21,11 @@ typedef struct {
 } tlb_entry;
 
 // Estrutura para armazenar informações de cada quadro físico (frame)
-// Usada para implementar os algoritmos de substituição FIFO e LRU.
+// Usada para implementar os algoritmos FIFO e LRU.
 typedef struct {
     int logical_page;       // Página lógica atualmente carregada (-1 se vazio)
-    int load_time;          // Tempo de carga (FIFO)
-    int last_access_time;   // Último acesso (LRU)
+    int load_time;          // Tempo de carga (para FIFO)
+    int last_access_time;   // Último acesso (para LRU)
 } frame_info;
 
 int main(int argc, char* argv[]) {
@@ -51,7 +51,7 @@ int main(int argc, char* argv[]) {
         exit(1);
     }
 
-    // Abre o arquivo BACKING_STORE.bin (presume-se que ele esteja na mesma pasta)
+    // Abre o arquivo BACKING_STORE.bin (presume-se que esteja na mesma pasta)
     int backing_fd = open("BACKING_STORE.bin", O_RDONLY);
     if(backing_fd < 0) {
         perror("Erro ao abrir BACKING_STORE.bin");
@@ -104,7 +104,7 @@ int main(int argc, char* argv[]) {
 
     int tlb_next = 0;         // Próxima posição para inserir na TLB (FIFO circular)
     int next_free_frame = 0;  // Próximo quadro livre
-    int time_counter = 0;     // Contador global para tempo (FIFO e LRU)
+    int time_counter = 0;     // Contador global para tempo (para FIFO e LRU)
     int total_addresses = 0;
     int tlb_hits = 0;
     int page_faults = 0;
@@ -116,9 +116,33 @@ int main(int argc, char* argv[]) {
         exit(1);
     }
 
-    // Processa cada endereço lógico do arquivo
+    // Processa cada linha do arquivo de endereços
     char line[256];
     while(fgets(line, sizeof(line), addr_fp) != NULL) {
+        // Remove o caractere de nova linha, se existir
+        line[strcspn(line, "\n")] = '\0';
+
+        // Verifica se a linha é um comando especial
+        if(strcmp(line, "PageTable") == 0) {
+            fprintf(out_fp, "###########\nPágina - Quadro - Bit Validade\n###########\n");
+            for (int i = 0; i < NUM_PAGES; i++) {
+                // Se a página está carregada, o bit de validade é 1; caso contrário, 0.
+                if(pagetable[i] != -1)
+                    fprintf(out_fp, "%d - %d - 1\n", i, pagetable[i]);
+                else
+                    fprintf(out_fp, "%d - %d - 0\n", i, pagetable[i]);
+            }
+            continue;  // Pula para a próxima linha
+        } else if(strcmp(line, "TLB") == 0) {
+            fprintf(out_fp, "************\nPágina - Quadro\n************\n");
+            for (int i = 0; i < TLB_SIZE; i++) {
+                if(tlb[i].valid)
+                    fprintf(out_fp, "%d - %d\n", tlb[i].logical, tlb[i].physical);
+            }
+            continue;  // Pula para a próxima linha
+        }
+
+        // Se não for um comando, trata como um endereço lógico
         int logical_address = atoi(line);
         total_addresses++;
         time_counter++;
@@ -144,7 +168,7 @@ int main(int argc, char* argv[]) {
             if(physical_frame != -1 && strcmp(alg, "LRU") == 0)
                 frames[physical_frame].last_access_time = time_counter;
 
-            // Se a página não estiver em memória, ocorre page fault
+            // Se a página não estiver em memória, ocorre um page fault
             if(physical_frame == -1) {
                 page_faults++;
                 if(next_free_frame < num_frames) {
@@ -205,11 +229,11 @@ int main(int argc, char* argv[]) {
     double page_fault_rate = (double) page_faults / total_addresses;
     double tlb_hit_rate = (double) tlb_hits / total_addresses;
 
-/*     fprintf(out_fp, "Número de Endereços Traduzidos = %d\n", total_addresses);
+    fprintf(out_fp, "Número de Endereços Traduzidos = %d\n", total_addresses);
     fprintf(out_fp, "Page Faults = %d\n", page_faults);
     fprintf(out_fp, "Taxa de Page Fault = %.3f\n", page_fault_rate);
     fprintf(out_fp, "TLB Hits = %d\n", tlb_hits);
-    fprintf(out_fp, "Taxa de TLB Hit = %.3f\n", tlb_hit_rate); */
+    fprintf(out_fp, "Taxa de TLB Hit = %.3f\n", tlb_hit_rate);
 
     printf("Número de Endereços Traduzidos = %d\n", total_addresses);
     printf("Page Faults = %d\n", page_faults);
